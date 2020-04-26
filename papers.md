@@ -11,7 +11,10 @@ permalink: /papers/
 ### Preprints
 1. <u>Yuki Nagai</u>, <b>N-independent Localized Krylov Bogoliubov-de Gennes Method: Ultra-fast Numerical Approach to Large-scale Inhomogeneous Superconductors</b>, [arXiv:2001.02362](https://arxiv.org/abs/2001.02362)
 2. Majid Kheirkhah, Zhongbo Yan, <u>Yuki Nagai</u>, Frank Marsiglio, <b>First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling</b>, [arXiv:2001.08739](https://arxiv.org/abs/2001.08739)
-3. Etsuko Itou  and <u>Yuki Nagai</u>, <b>Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions</b>, [arXiv:2004.02426](https://arxiv.org/abs/2004.02426)
+3. Etsuko Itou  and <u>Yuki Nagai</u>, <b>Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions</b>, [arXiv:2004.02426](https://arxiv.org/abs/2004.02426)  
+   有限温度格子QCDにおいて、虚時間による相関関数の計算からスペクトルを精度よく求めるにはどうすればいいか、という問題があった。その問題の解決策としてスパースモデリングを使った、という論文。
+   格子QCDにおいては、虚時間の点の数が少なく、格子の大きさの制約からたかだか10-20であった。一方、エネルギーの関数としてのスペクトル関数はエネルギーに対して連続的であるはずである。
+   相関関数とスペクトル関数にはレーマン表示的な関係があり、スペクトル関数に比べて相関関数がもつ情報がはるかに少ないということを利用するスパースモデリングを利用することで、ゼロエネルギー近傍におけるスペクトル関数の振る舞いを調べた。<br>
 4. Taiki Matsushita, <u>Yuki Nagai</u>, Satoshi Fujimoto, <b>Spectrum collapse of disordered Dirac Landau levels as non-Hermitian topological phase transition</b>, [arXiv:2004.11014](https://arxiv.org/abs/2004.11014)
 
 
