@@ -15,6 +15,8 @@ Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, 
 MAJOR: Condensed Matter Physics (Theory)  
 especially, <b>Superconductivity</b>
 
+Email : Nagai.Yuki_-at.-mark.-_jaea.go.jp (Replace _-at-mark-_ with @) <BR>
+
 Researcher ID:  
 <span id='badgeCont644019' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont644019&mashlet=badge&showTitle=false&className=a&rid=B-6698-2011'></script></span>
 
@@ -30,6 +32,8 @@ Email: Nagai.Yuki_-at.-mark.-_jaea.go.jp ("_"で囲まれた部分を取り去�
 
 ## 専門
 物性理論、特に固体物理
+
+---
 
 
 ## これまでやってきたこと
