@@ -2,13 +2,14 @@
 http://park.itc.u-tokyo.ac.jp/kato-yusuke-lab/nagai/
 をご覧ください。
 
-永井佑紀
+Yuki Nagai, Ph. D  
+CCSE, Japan Atomic Energy Agency (JAEA)   
+Position : Senior Scientist   
 
-Yuki Nagai, Ph. D
+永井佑紀  
 
-国立研究開発法人日本原子力研究開発機構　システム計算科学センター　シミュレーション技術開発室　副主任研究員 
-
-国立研究開発法人理化学研究所　革新知能統合研究センター 数理科学チーム　客員研究員 
+国立研究開発法人日本原子力研究開発機構　システム計算科学センター　シミュレーション技術開発室　副主任研究員   
+国立研究開発法人理化学研究所　革新知能統合研究センター 数理科学チーム　客員研究員   
 
 ### 連絡先
 Email: Nagai.Yuki_-at.-mark.-_jaea.go.jp ("_"で囲まれた部分を取り去ってください) 
