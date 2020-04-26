@@ -29,11 +29,31 @@ permalink: /papers/
 16. <u>Y. Nagai</u>, Y. Ota, and M. Machida, <b>Efficient Numerical Self-consistent Mean-field Approach for Fermionic Many-body Systems by Polynomial Expansion on Spectral Density</b>, J. Phys. Soc. Jpn. 81 024710-1 024710-6 (2012) DOI: 10.1143/JPSJ.81.024710
 17. <u>Y. Nagai</u>, and K. Kuroki, <b>Q-scan-analysis of the neutron scattering in iron-based superconductors</b>, Phys. Rev. B 85 134521-1,134521-7 (2012) DOI: 10.1103/PhysRevB.85.134521
 18. <u>Y. Nagai</u>, K. Tanaka, and N. Hayashi, <b>Quasiclassical numerical method for mesoscopic superconductors: bound states in a circular d-wave island with a single vortex</b>, Phys. Rev. B 86, 094526-1, 094526-9 (2012) DOI: 10.1103/PhysRevB.86.094526
-19. <u>Y. Nagai</u>, H. Nakamura, and M. Machida, <b>Rotational Isotropy Breaking as Proof for Spin-polarized Cooper Pair in Topological Superconductor CuxBi2Se3</b>, Phys. Rev. B 86 094507-1, 094507-5 (2012) DOI:09450710.1103/PhysRevB.86.094507
-20. <u>Y. Nagai</u>, Y. Shinohara, Y. Futamura, Y. Ota, and T. Sakurai, <b>Numerical construction of a low-energy effective Hamiltonian in a self-consistent Bogoliubov-de Gennes approach of superconductivity</b>, J. Phys. Soc. Jpn. 82 094701-1,094701-10 (2013) DOI: 10.7566/JPSJ.82.094701
+19. <u>Y. Nagai</u>, H. Nakamura, and M. Machida, <b>Rotational Isotropy Breaking as Proof for Spin-polarized Cooper Pair in Topological Superconductor CuxBi2Se3</b>, Phys. Rev. B 86 094507-1, 094507-5 (2012) DOI:09450710.1103/PhysRevB.86.094507  
+    トポロジカル超伝導体候補CuxBi2Se3を念頭におき、軌道間接触型相互作用から生じるスピンが揃ったクーパーペアを考えると<br>
+熱伝導率に二回対称の異方性が現れることを理論的に示した。<br>
+Bi2Se3にCuをドープしたCuxBi2Se3は約3Kで超伝導になり、３次元トポロジカル超伝導体の候補として考えられている。<br>
+ある種の軌道間クーパーペアを考えると、その超伝導秩序変数は波数依存しないにも関わらず、二回空間対称な系になってしまう。<br>
+これは、常伝導状態の低エネルギー有効ハミルトニアンは質量のある３次元ディラックハミルトニアンで書けることと関係しており、<br>
+常伝導ハミルトニアンが持つローレンツ対称性を超伝導秩序変数が破ることによって生じることを明らかにした。<br>
+
+20. <u>Y. Nagai</u>, Y. Shinohara, Y. Futamura, Y. Ota, and T. Sakurai, <b>Numerical construction of a low-energy effective Hamiltonian in a self-consistent Bogoliubov-de Gennes approach of superconductivity</b>, J. Phys. Soc. Jpn. 82 094701-1,094701-10 (2013) DOI: 10.7566/JPSJ.82.094701  
+    実空間でBogoliubov-de Gennes(BdG)方程式を数値的に自己無撞着に高速に解く為の手法を提案した。<br>
+実空間でギャップ方程式とBdG方程式を自己無撞着に解くためには文献[16]の直交多項式展開を用い、BdG方程式の固有値や固有ベクトルを利用して核磁気緩和率等の<br>
+物理量を計算する際には、Sakurai-Sugiura(SS)法を用いることを提案した。<br>
+超伝導で用いるBdGハミルトニアンで一番重要な固有値は固有値分布の中央付近に位置するゼロ近傍の固有値である。<br>
+固有値分布の中央付近の固有値を効率的に求める手法としては、SS法が知られている。<br>
+この二つの手法はともに大規模並列計算が容易なアルゴリズムとなっており、超伝導の磁束状態などを簡単に高速に計算できることを示した。<br>
 21. Y. Higashi, <u>Y. Nagai</u>, M. Machida, and N. Hayashi, <b>Field-angle resolved flux-flow resistivity as a phase-sensitive probe of unconventional Cooper pairing</b>, Phys. Rev. B 88 224511-1 224511-6 (2013) DOI: 10.1103/PhysRevB.88.224511
-22. <u>Y. Nagai</u>, H. Nakamura, and M. Machida, <b> Spin-polarized Majorana Bound States around a Vortex in Topological Superconductors </b>, J. Phys. Soc. Jpn. 83, 064703-1,064703-7 (2014). DOI: 10.7566/JPSJ.83.064703  'Papers of Editors' Choice' 
-23. <u>Y. Nagai</u>, H. Nakamura, and M. Machida, <b>Quasiclassical Treatment and Odd-parity/Triplet Correspondence in Topological Superconductors</b>, J. Phys. Soc. Jpn. 83 053705-1,053705-4 (2014) DOI: 10.7566/JPSJ.83.053705
+22. <u>Y. Nagai</u>, H. Nakamura, and M. Machida, <b> Spin-polarized Majorana Bound States around a Vortex in Topological Superconductors </b>, J. Phys. Soc. Jpn. 83, 064703-1,064703-7 (2014). DOI: 10.7566/JPSJ.83.064703  'Papers of Editors' Choice'   
+    文献[19]と同じトポロジカル超伝導体候補CuxBi2Seを考え、その渦糸状態にスピン偏極したマヨラナ束縛状態が現れることを数値的におよび解析的に示した。<br>
+この系は強いスピン軌道相互作用により、全角運動量は保存していても軌道角運動量とスピン角運動量のそれぞれは保存しない。<br>
+そのため、渦糸の回る準粒子が持つ軌道角運動量がスピン角運動量に影響を与え、その結果渦糸周りにスピン分布が生じ、スピン偏極した渦糸
+束縛状態が現れる。
+23. <u>Y. Nagai</u>, H. Nakamura, and M. Machida, <b>Quasiclassical Treatment and Odd-parity/Triplet Correspondence in Topological Superconductors</b>, J. Phys. Soc. Jpn. 83 053705-1,053705-4 (2014) DOI: 10.7566/JPSJ.83.053705  
+        文献[19]等で取り扱ったトポロジカル超伝導体候補CuxBi2Se3に対して準古典近似を適用し、波数依存のない奇パリティの超伝導ギャップ<br>
+    は一体スピン軌道相互作用によってヘリウム3と同じようなスピントリプレット超伝導ギャップにマップできることを示した。<br>
+    その際、常伝導状態のフェルミ準位での多軌道波動関数を用いることで、準古典近似を多軌道系へと拡張することができた。<br>
 24. <u>Y. Nagai</u>, <b>Field-angle-dependent Low-energy Excitations around a Vortex in the Superconducting Topological Insulator CuxBi2Se3</b>, J. Phys. Soc. Jpn. 83 063705-1,063705-4 (2014),DOI: 10.7566/JPSJ.83.063705  
     文献[23]で構築したトポロジカル超伝導体候補CuxBi2Se3に対する準古典理論を用いて、ポイントノードを持つ場合に量子化磁束の周りに生じる準粒子束縛状態を調べた。<br>
 その際、磁束周りの準古典Eilenberger方程式の近似的解析解をKramer-Pesch近似により構築した。
