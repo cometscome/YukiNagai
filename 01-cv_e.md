@@ -10,7 +10,8 @@ permalink: /cv_e/
 |2007-2010 | Ph. D. research at Department of Physics, University of Tokyo. | Supervisor : Asso. Prof. Y. Kato.| Subject : "Theoretical study of pairing symmetries in iron-based superconductors"
 
 ### Awards
-| Mar. 2015 | Young Scientist Award of the Physical Society of Japan 
+Mar. 2015 : Young Scientist Award of the Physical Society of Japan  
+
 
 ### Researches
 
