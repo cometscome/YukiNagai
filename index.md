@@ -8,9 +8,8 @@ Yuki Nagai, Ph. D
 CCSE, Japan Atomic Energy Agency (JAEA)   
 Position : Senior Scientist   
 
-2018- Visiting resercher in RIKEN AIP 
-2016-2017:  
-Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)  
+2018- Visiting resercher in RIKEN AIP  
+2016-2017: Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)  
 
 MAJOR: Condensed Matter Physics (Theory)  
 especially, <b>Superconductivity</b>
