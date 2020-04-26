@@ -9,20 +9,11 @@ permalink: /cv_e/
 |2005-2007 | M. Sci. Department of Physics, University of Tokyo. | Supervisor : Asso. Prof. Y. Kato.| Subject : "Analytical Theory of the Local Density of States around a Vortex in Superconductors"
 |2007-2010 | Ph. D. research at Department of Physics, University of Tokyo. | Supervisor : Asso. Prof. Y. Kato.| Subject : "Theoretical study of pairing symmetries in iron-based superconductors"
 
-## 研究業績
-
-
-### Books (in Japanese)
-1. <u>永井佑紀</u>、涌井貞美（著）現代用語の基礎知識（編）,<b> 理科のおさらい 物理 (おとなの楽習)</b>、自由国民社 (2008) ISBN-10: 4426103657 
-中学生のお子さんをもつお母さん向けの物理の本。
-
-1. 門脇 和男（編）、<b>超伝導磁束状態の物理</b>、裳華房 (2017)、ISBN-10: 478532922X
-2章6.5節「BdG方程式による非一様な多バンド超伝導の理論」を執筆。
-
-3. 橋本幸士（編）、<b>物理学者、機械学習を使う</b>、朝倉書店（2019）、ISBN-978-4-254-13129-1
-第5章「自己学習モンテカルロ法」を執筆。
+### Awards
+| Mar. 2015 | Young Scientist Award of the Physical Society of Japan 
 
 ### Researches
+
 ####  Original Papers
 1. <u>Y. Nagai</u>, Y. Kato and N. Hayashi, <b>Analytical Result on Electronic States around a Vortex Core in a Noncentrosymmetric Superconductor</b>, J. Phys. Soc. Jpn. 75 043706-1 043706-4 (2006) DOI: 10.1143/JPSJ.75.043706
 2. <u>Y. Nagai</u>, Y. Ueno, Y. Kato and N. Hayashi, <b>Analytical Formulation of the Local Density of States around a Vortex Core in Unconventional Superconductors</b>, J. Phys. Soc. Jpn. 75 104701-1 104701-14 (2006) DOI: 10.1143/JPSJ.75.104701
@@ -124,3 +115,11 @@ permalink: /cv_e/
 17. <u>Y. Nagai</u>, <b>Non-hermitian physics in strongly correlated electron systems</b>, EPiQS-TMS 3rd Alliance Workshop on Topological Materials Science (UCSB, USA, 2019)
 18. <u>Y. Nagai</u>, <b>Non-Hermitian effective Hamiltonian for low-energy quasiparticles</b>, Topological Materials Science 2019 (TopoMat2019) (Kyoto, Japan, 2019)
 
+
+### Books (in Japanese)
+1. <u>永井佑紀</u>、涌井貞美（著）現代用語の基礎知識（編）,<b> 理科のおさらい 物理 (おとなの楽習)</b>、自由国民社 (2008) ISBN-10: 4426103657 
+Physics book written for parents of Junior high school students
+
+1. 門脇 和男（編）、<b>超伝導磁束状態の物理</b>、裳華房 (2017)、ISBN-10: 478532922X
+
+2. 橋本幸士（編）、<b>物理学者、機械学習を使う</b>、朝倉書店（2019）、ISBN-978-4-254-13129-1
