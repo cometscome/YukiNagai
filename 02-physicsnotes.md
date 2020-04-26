@@ -357,4 +357,44 @@ HubbardモデルのRPAによる電荷感受率とスピン感受率の表式を�
 相互作用のある系のトポロジカル不変量を簡便に計算する手法として、Z. Wang and S-.C. Zhang, Phys. Rev. X <b> 2</b>, 031008 (2012)がある。 <br>
 この方法でTKNNS数が確かに計算できることを示した。<br>
 
+---
+
+<A HREF="GL_equation.pdf"><STRONG>GL方程式を導く</STRONG></A><BR>
+先取りレジュメの一部だったもの。Textで言えば四章の始め。<BR>
+結局自分の担当ではなくなってしまったため、使うことはなかった。<BR>
+
+<A HREF="GLtheory_4-2-1.pdf"><STRONG>GLコヒーレント長</STRONG></A><BR>
+上と同様、先取りレジュメの一部だったもの。4.2.1。<BR>
+秩序パラメータのゆらぎと特徴的な長さについて。<BR>
+こちらも使わなかった。<br>
+
+---
+
+<STRONG>現代の凝縮系物理学の章末問題</STRONG><BR>
+チェイキン＆ルベンスキー「現代の凝縮系物理学」（吉岡書店）の章末問題を解いた。<BR>
+まえがきに「多くの問題はその分野の専門家に対してさえ挑戦的なものになった」とあるように、<BR>
+このテキストの章末問題は非常に難しい。簡単な問題を三つ選んで解いた。<BR>
+簡単といっても、自分にとって4.2はかなりの難問だった。<BR>
+<A HREF="chaikin_3_1.pdf">3.1 相互作用のない古典気体</A><br>
+<A HREF="chaikin_4_2.pdf">4.2 外場中の反強磁性体の三重臨界点</A><br>
+<A HREF="chaikin_5_3.pdf">5.3 異方的な系の相関関数</A>
+
+
+---
+
+<STRONG>Introduction to Superconductivity</STRONG><BR>
+輪講で自分が担当したところのレジュメです。<BR>
+<P>
+2 INTRODUCTION TO ELECTRODYNAMICS OF SUPERCONDUCTORS<br>
+<A HREF="resume_rinko_2-3_af.pdf">2.3 Type I Superconductors in Strong Magnetic Fields: The Intermediate State　</A><br>
+3 THE BCS THEORY<br>
+<A HREF="resume_rinko_3_af.pdf">3.1-3.3　</A><br>
+<A HREF="resume_rinko_3-6_f.pdf">3.6-3.7　</A><br>
+<A HREF="resume_rinko_3-9.pdf">3.9</A><br>
+<A HREF="resume_rinko_3-11.pdf">3.11</A><BR>
+4 GINZBURG-LANDAU THORY<br>
+<A HREF="resume_rinko_4-3_12_20.pdf">4.3-4.5</A><br>
+<A HREF="resume_rinko_4-10.pdf">4.10-4.11</A>
+
+---
 
