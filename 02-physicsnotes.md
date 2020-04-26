@@ -112,8 +112,9 @@ Bogoliubov-de Gennes方程式を導出する。その際、なるべく導出の
 これが正しい導出方法なのかはわからない。<BR>
 
 
+---
 
-<HR ALIGN="center" WIDTH=100% SIZE=2>
+
 Green関数がらみは間違いが多い可能性があるので注意。<BR>
 日々更新中。<BR>
 <BR>
@@ -193,8 +194,8 @@ Eilenberger方程式のdirty limitを取ると、Usadel方程式になる。こ�
 また、Eilenberger方程式を変形したRicatti方程式に出てくる変数でUsadel方程式
 を書き直すということもやってみた。<bf>
 
+---
 
-<HR ALIGN="center" WIDTH=100% SIZE=2>
 Triplet関連。ここもたぶん間違いは多い。<BR>
 <BR>
 <A HREF="note_1028_bog.pdf"><STRONG>一般的なBogoliubov変換</STRONG></A><BR>
@@ -239,7 +240,8 @@ T積の扱いに慣れるにはちょうど良いのかもしれない。<br>
 Green関数を定義に従って考えれば、contour orderingも行列形式も自然に理解できることを示す。<br>
 非平衡Green関数をファインマンダイアグラムを用いて展開するための方法をまとめた。<br>
 
-<HR ALIGN="center" WIDTH=100% SIZE=2>
+---
+
 数値計算のテクニックをまとめてみた。<BR>
 <BR>
 <A HREF="note_070420_self.pdf"><STRONG>非線形方程式の数値解法：自己無撞着な方程式を解く</STRONG></A><BR>
@@ -309,9 +311,8 @@ FortranやC並みに高速かつPythonのように書きやすい数値計算向
 <br>
 
 
-            
+---
 
-<HR ALIGN="center" WIDTH=100% SIZE=2>
 強相関電子系関連のノート。<BR><br>
 <A HREF="note_070709_slave.pdf"><STRONG>ハバードモデルのSlave boson平均場近似によるアプローチ</STRONG></A><BR>
 ある論文を読むために、KR slave boson mean field theoryを調べた。<br>
@@ -355,4 +356,5 @@ HubbardモデルのRPAによる電荷感受率とスピン感受率の表式を�
 <A HREF="note_160115_Int.pdf"><STRONG>相互作用のある系におけるトポロジカル不変量</STRONG></A><BR>
 相互作用のある系のトポロジカル不変量を簡便に計算する手法として、Z. Wang and S-.C. Zhang, Phys. Rev. X <b> 2</b>, 031008 (2012)がある。 <br>
 この方法でTKNNS数が確かに計算できることを示した。<br>
+
 
