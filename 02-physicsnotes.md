@@ -209,3 +209,150 @@ Matrix Riccati方程式の導出としては一番わかりやすいと思う。
 Gor'kov方程式の行列表示のより整理された導出。<BR>
 4x4のGor'kov方程式を導ß出した。<br>
 その後、singletの場合と、unitaryなtripletの場合には2x2のGor'kov方程式に落とすことができることを示した。<BR>
+
+
+
+<HR ALIGN="center" WIDTH=100% SIZE=2>
+非平衡Green関数について考えるための下準備ノート。間違いがありそうなので注意。<BR>
+<BR>
+<A HREF="note_070106_in.pdf"><STRONG>相互作用表示と時間発展演算子</STRONG></A><BR>
+相互作用表示と時間発展演算子についてまとめた。<BR>
+時間発展演算子の微分方程式から逐次近似による解を求め、T積を導入した。<BR>
+
+<A HREF="note_070106_ad.pdf"><STRONG>断熱定理の証明</STRONG></A><BR>
+Gell-Mann-Low(ゲルマン・ロウ)の定理とも呼ばれる断熱定理の証明を行った。<BR>
+T積やn次の積分の扱いが複雑に思えたので比較的丁寧に計算ノートを作った。<BR>
+T積の扱いに慣れるにはちょうど良いのかもしれない。<br>
+
+<A HREF="note_070123_per.pdf"><STRONG>物理量の計算と摂動展開</STRONG></A><BR>
+物理量の期待値を相互作用のない系の状態を用いて計算した。<BR>
+また、Green関数を摂動展開（ファインマン・ダイアグラムで展開）するための表記を求めた。<BR>
+相互作用のない系の期待値によって相互作用のある系の物理量の期待値が計算できるため、Wickの定理を用いることができる。<br>
+
+<A HREF="note_070124_co.pdf"><STRONG>密度行列演算子の時間発展と物理量の期待値</STRONG></A><BR>
+物理量の期待値を相互作用のない系の状態を用いて計算した（平成19年6月5日考え違いをしていた箇所を訂正）。<BR>
+前のノートでは虚時間を導入して有限温度の系を扱ったが、今回のノートでは実時間のまま考える。<BR>
+密度行列演算子の時間発展を考えることで、有限温度での物理量の期待値を導き、今後の非平衡状態への適用の準備を行った。<br>
+
+<A HREF="note_070605_kel.pdf"><STRONG>Keldysh形式の非平衡Green関数の導入</STRONG></A><BR>
+非平衡Green関数では何故行列形式を扱うのかについて考えた。<br>
+Green関数を定義に従って考えれば、contour orderingも行列形式も自然に理解できることを示す。<br>
+非平衡Green関数をファインマンダイアグラムを用いて展開するための方法をまとめた。<br>
+
+<HR ALIGN="center" WIDTH=100% SIZE=2>
+数値計算のテクニックをまとめてみた。<BR>
+<BR>
+<A HREF="note_070420_self.pdf"><STRONG>非線形方程式の数値解法：自己無撞着な方程式を解く</STRONG></A><BR>
+自己無撞着な方程式を数値的に解く方法を理解するため、s波のギャップ方程式の温度依存性を求めた。<BR>
+self-consistentな方程式は結局のところ非線形方程式である。<br>
+x=G(x)の解を得るための方法として、Aitkenの加速法やSteffensenの反復法などをまとめた。<BR>
+
+<A HREF="note_090424_FFT.pdf"><STRONG>松原Green関数の高速フーリエ変換</STRONG></A><BR>
+高速フーリエ変換(FFT)のアルゴリズムについて軽くまとめた。<BR>
+また、松原Green関数のフーリエ変換をFFTに載せるための変形について書いた。<br>
+
+<A HREF="note_111224_finiteTB.pdf"><STRONG>有限サイズモデルでバルクを扱う方法</STRONG></A><BR>
+ハミルトニアンが二次形式で表現される有限サイズモデルを使って、
+バルクの系を計算する方法について。<BR>
+エネルギー方向の解像度が欲しいときに行う方法。<br>
+
+<A HREF="note_131119_RungeKutta.pdf"><STRONG>Runge-Kutta法による一階常微分方程式の解法</STRONG></A><BR>
+準古典理論で現れる方程式であるRIccati方程式は一階常微分方程式である。この微分方程式を数値的に解く為には、Runge-Kutta法が使われる。<br>
+8段7次のRunge-Kutta法の係数についてまとめた。<br>
+
+<A HREF="note_140502_SS.pdf"><STRONG>Sakurai-Sugiura法による行列の対角化</STRONG></A><BR>
+Sakurai-Sugiura法(SS法)は、任意の範囲の固有値と固有ベクトルを求める事のできる手法である。
+この手法はプログラムが比較的単純にも関わらず高速に高精度に計算ができる。
+<br>
+この手法の解説を行う。<br>
+
+<A HREF="note_140903_SSzpares.pdf"><STRONG>Sakurai-Sugiura 法による固有値問題ソルバー z-Pares の解説</STRONG></A><BR>
+Sakurai-Sugiura法(SS法)による固有値問題ソルバーz-Paresが<a href="http://zpares.cs.tsukuba.ac.jp">公開</a>された。
+このノートはそのインストールと実行に関する日本語解説である。<br> 
+密行列用サンプルコード逐次版は<a href="zpares_sub.f90">こちら</a>。MPI並列版は<a href="zpares_sub_mpi.f90">こちら</a>。
+<br>
+疎行列用サンプルコードMPI版は<a href="zpares_subCRS_mpi.f90">こちら</a>。<br>
+行列の(i,j)における要素vを計算するサブルーチンを用意すれば勝手にCRS形式に変換して計算できるようにした。
+<br>
+<A HREF="note_141009_LOBPCG.pdf"><STRONG>固有値ソルバLOBPCG法の解説</STRONG></A><BR>
+Locally Optimal Block Preconditioned Conjugate Gradient (LOBPCG) 法と呼ばれる、
+行列の数値的対角化手法について解説する。<br>
+最初、一つの最小固有値を求める手法について解説したあと、m個の固有値を求める場合について述べ、最後に
+Fortran90のサンプルコードを載せる。<br> 
+サンプルコードは<a href="test_LOBPCG.f90">こちら</a>。
+<br>
+<A HREF="note_170223_exactD.pdf"><STRONG>Hubbard模型の厳密対角化</STRONG></A><BR>
+Hubbard模型を厳密対角化で解く手法について述べる。
+簡単のため、一次元を考える。<br>
+厳密対角化で重要なことは解くべきハミルトニアンを行列表示することである。<br>
+このノートでは主に行列表示する方法について述べる。<br>
+サンプルコードは<a href="exact.py">こちら</a>。
+Python 2系で書いた。なお、このコードは二次元Hubbard模型の最小固有値を求めることができる。
+<br>
+<A HREF="note_170705_MPI.pdf"><STRONG>物性物理で使える誰でもできるMPI並列計算の初歩</STRONG></A><BR>
+最近は一つのCPUに複数のコアが積まれていることが多く、気軽にMPI並列計算ができるようになってきた。<br>
+このPDFノートでは、「運動量空間での積分の並列化」を例にして、最小限の労力で並列計算を行うための方法を示す。<br>
+なお、言語はFortran90とする。<br>
+このPDFノートはあくまでMPI並列計算を使ってみるということに重点を置いており、MPIの詳細は別の文献を参照すること。<br>
+サンプルコードは<a href="MPItest.zip">こちら</a>。
+<br>
+
+<A HREF="JuliaQM.pdf"><STRONG>数値計算で学ぶ量子力学: プログラミング言語Juliaによる数値計算入門</STRONG></A><BR>
+プログラミング言語Juliaを使って、量子力学を解いてみた。現状まだ未完成。<br>
+JuliaはFortranやCに匹敵する速度で実行できるにも関わらず、行列の対角化や数値積分などが非常に簡便に実行できる。<br>
+詳しくは<a href="https://qiita.com/cometscome_phys/items/31d0b811345a3e12fcef">こちら(外部サイト)</a>も参考にすると良い。<br>
+
+<A HREF="julianote.pdf"><STRONG>物理で使う数値計算入門：Julia言語による簡単数値計算</STRONG></A><BR>
+FortranやC並みに高速かつPythonのように書きやすい数値計算向きプログラミング言語Juliaの解説。<br>
+随時更新中。最新版は<a href="https://github.com/cometscome/Julianotes">こちら(外部サイト)</a>にある
+
+<br>
+
+
+            
+
+<HR ALIGN="center" WIDTH=100% SIZE=2>
+強相関電子系関連のノート。<BR><br>
+<A HREF="note_070709_slave.pdf"><STRONG>ハバードモデルのSlave boson平均場近似によるアプローチ</STRONG></A><BR>
+ある論文を読むために、KR slave boson mean field theoryを調べた。<br>
+結局深入りはしなかったので、どんなことをしているかについてだけまとめた。<br>
+
+<A HREF="note_070828_hei.pdf"><STRONG>Hubbardモデルを用いたt-JモデルとHeisenbergモデルの導出</STRONG></A><BR>
+Hubbardモデルにおいて、ホッピング項が相互作用項より小さく二重占有が禁止されていれば、t-JモデルやHeisenbergモデルを導くことができる。<br>
+Hubbardモデルのハミルトニアンの相互作用のない場合とホッピング項がない場合の振る舞いを調べ、
+その後摂動論によりt-JモデルやHeisenbergモデルのハミルトニアンを導出した。<br>
+
+<A HREF="note_071017_momen.pdf"><STRONG>Green関数のエネルギー−運動量表示と準粒子描像</STRONG></A><BR>
+Green関数のエネルギー−運動量表示を求めた。またその表示を用いて、素励起について考えた。<br>
+また、自己エネルギーを導入してDyson方程式を導いてみた。<br>
+
+<A HREF="note_071023_anderson.pdf"><STRONG>Anderson模型のHartree-Fock近似</STRONG></A><BR>
+Anderson模型のHartree-Fock近似によるGreen関数を求めた。<br>
+この近似でU =0とすれば、Anderson模型におけるU =0のときのGreen関数である。<br>
+U=0のGreen関数はDMFT（動的平均場理論）において非摂動Green関数として用いられる。 <br>
+
+<A HREF="note_080408_anpath.pdf"><STRONG>経路積分表示でのAnderson模型のHartree-Fock近似</STRONG></A><BR>
+経路積分表示でのAnderson模型の有効作用を求めた。<br>
+結局のところグラスマン数の積分を行っただけのノートである。<br>
+DMFTの下準備ノート。<br> 
+
+<A HREF="note_080411_aneff.pdf"><STRONG>Hubbard模型の有効作用と動的平均場理論</STRONG></A><BR>
+Hubbard模型の有効作用をIsing模型の平均場理論との類推から求めた。<br>
+Ising模型の平均場近似を状態和から眺めた。<br>
+また、DMFTで用いる自己無撞着方程式の導出を行った。<br>
+A. Georges et al. Rev. Mod. Phys. <b> 68</b> 13 (1996)の3-A章
+をまとめたようなノート。 <br>
+
+<A HREF="note_080526_self.pdf"><STRONG>Green関数のレーマン表示と解析接続</STRONG></A><BR>
+ファインマンダイヤグラムで得られた温度Green関数や自己エネルギーを解析接続するためのノートである。<br>
+松原振動数の和を複素積分で表すことを確認した。<br>
+Anderson模型の自己エネルギーの二次のダイヤグラムを解析接続して実エネルギー表示を求めた。<br>
+
+<A HREF="note_120323_RPA.pdf"><STRONG>Hubbard モデルの RPA</STRONG></A><BR>
+HubbardモデルのRPAによる電荷感受率とスピン感受率の表式を求めた。<br>
+ファインマンダイヤグラムを使わずに線型応答理論から求めてみた。<br>
+
+<A HREF="note_160115_Int.pdf"><STRONG>相互作用のある系におけるトポロジカル不変量</STRONG></A><BR>
+相互作用のある系のトポロジカル不変量を簡便に計算する手法として、Z. Wang and S-.C. Zhang, Phys. Rev. X <b> 2</b>, 031008 (2012)がある。 <br>
+この方法でTKNNS数が確かに計算できることを示した。<br>
+
