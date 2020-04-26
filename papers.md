@@ -135,8 +135,8 @@ DMFTによって局所的なファインマンダイヤグラムを全て取り�
 46.  K. Iida, M. Ishikado, <u>Y. Nagai</u>, H. Yoshida, A. D. Christianson, N. Murai, K. Kawashima, Y. Yoshida, H. Eisaki, and A. Iyo, <b>Spin Resonance in the New-Structure-Type Iron-Based Superconductor CaKFe4As4</b>, J. Phys. Soc. Jpn. 86 093703_1-093703_4 (2017), DOI: 10.7566/JPSJ.86.093703
 47.  <u>Y. Nagai</u> and H. Shinaoka, <b>Smooth self-energy in the exact-diagonalization-based dynamical mean-field theory: Intermediate-representation filtering approach</b>, J. Phys. Soc. Jpn. 88, 064004 (2019), DOI: 10.7566/JPSJ.88.064004  
     強相関電子系でよく用いられる動的平均場理論（DMFT）では、有効不純物問題を正確に解くことが重要である。<br>
-有効不純物問題のソルバーとして、厳密対角化を用いることで状態密度などの実振動数の量を計算することができる。<br>
-しかし、系を少数サイトで近似してしまうが故に状態密度や自己エネルギーがスパイク状になってしまい、その物理的意義を調べることが困難であった。<br>
+有効不純物問題のソルバーとして、厳密対角化を用いることで状態密度などの実振動数の量を計算することができる。
+しかし、系を少数サイトで近似してしまうが故に状態密度や自己エネルギーがスパイク状になってしまい、その物理的意義を調べることが困難であった。
 本研究では、スパースモデリングの観点から松原自己エネルギーが数十のパラメータで近似できることに着目し、自己エネルギーの中間状態基底を導入することで、
 サイト数に対して収束している自己エネルギーを得ることができた。その結果、自己エネルギーの実振動数表示はサイト数に依存しない滑らかな関数となり、
 その物理的意義を調べることが容易となった。<br>
