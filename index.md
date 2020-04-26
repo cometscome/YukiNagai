@@ -2,6 +2,8 @@
 http://park.itc.u-tokyo.ac.jp/kato-yusuke-lab/nagai/
 をご覧ください。
 
+---
+
 Yuki Nagai, Ph. D  
 CCSE, Japan Atomic Energy Agency (JAEA)   
 Position : Senior Scientist   
@@ -16,6 +18,7 @@ especially, <b>Superconductivity</b>
 Researcher ID:  
 <span id='badgeCont644019' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont644019&mashlet=badge&showTitle=false&className=a&rid=B-6698-2011'></script></span>
 
+---
 
 永井佑紀  
 
