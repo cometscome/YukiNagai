@@ -15,6 +15,12 @@ Mar. 2015 : Young Scientist Award of the Physical Society of Japan
 
 ### Researches
 
+### Preprints
+1. <u>Yuki Nagai</u>, <b>N-independent Localized Krylov Bogoliubov-de Gennes Method: Ultra-fast Numerical Approach to Large-scale Inhomogeneous Superconductors</b>, [arXiv:2001.02362](https://arxiv.org/abs/2001.02362)
+2. Majid Kheirkhah, Zhongbo Yan, <u>Yuki Nagai</u>, Frank Marsiglio, <b>First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling</b>, [arXiv:2001.08739](https://arxiv.org/abs/2001.08739)
+3. Etsuko Itou  and <u>Yuki Nagai</u>, <b>Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions</b>, [arXiv:2004.02426](https://arxiv.org/abs/2004.02426)
+4. Taiki Matsushita, <u>Yuki Nagai</u>, Satoshi Fujimoto, <b>Spectrum collapse of disordered Dirac Landau levels as non-Hermitian topological phase transition</b>, [arXiv:2004.11014](https://arxiv.org/abs/2004.11014)
+
 ####  Original Papers
 1. <u>Y. Nagai</u>, Y. Kato and N. Hayashi, <b>Analytical Result on Electronic States around a Vortex Core in a Noncentrosymmetric Superconductor</b>, J. Phys. Soc. Jpn. 75 043706-1 043706-4 (2006) DOI: 10.1143/JPSJ.75.043706
 2. <u>Y. Nagai</u>, Y. Ueno, Y. Kato and N. Hayashi, <b>Analytical Formulation of the Local Density of States around a Vortex Core in Unconventional Superconductors</b>, J. Phys. Soc. Jpn. 75 104701-1 104701-14 (2006) DOI: 10.1143/JPSJ.75.104701
