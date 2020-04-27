@@ -396,5 +396,6 @@ HubbardモデルのRPAによる電荷感受率とスピン感受率の表式を�
 <A HREF="resume_rinko_4-3_12_20.pdf">4.3-4.5</A><br>
 <A HREF="resume_rinko_4-10.pdf">4.10-4.11</A>
 
+
 ---
 
