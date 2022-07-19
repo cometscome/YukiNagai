@@ -1,5 +1,10 @@
 # 1週間で学べる！　Julia数値計算プログラミング(KS情報科学専門書)
 
+```@raw html
+<img src="../images/greenjulia.jpg" height="319.8" width="250.9" alt="Julia本表紙" >
+```
+[1週間で学べる！　Julia数値計算プログラミング(KS情報科学専門書)](https://www.kspub.co.jp/book/detail/5282823.html)
+
 ## 更新履歴
 - 2022年7月19日　サイトを公開しました
 
