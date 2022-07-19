@@ -6,7 +6,7 @@ using Documenter
 makedocs(;
     #modules=[YukiNagai],
     authors="Yuki Nagai <cometscome@gmail.com>",
-    repo="https://github.com/cometscome/cometscome.github.io/blob/{commit}{path}#L{line}",
+    repo="https://github.com/cometscome/YukiNagai/blob/{commit}{path}#L{line}",
     sitename="Yuki Nagai",
     doctest=false,
     format=Documenter.HTML(;
@@ -30,7 +30,7 @@ makedocs(;
 makedocs(;
     #modules=[YukiNagai],
     authors="Yuki Nagai <cometscome@gmail.com>",
-    repo="https://github.com/cometscome/cometscome.github.io/blob/{commit}{path}#L{line}",
+    repo="https://github.com/cometscome/YukiNagai/blob/{commit}{path}#L{line}",
     sitename="Yuki Nagai",
     doctest=false,
     format=Documenter.HTML(;
