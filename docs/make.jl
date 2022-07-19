@@ -46,6 +46,7 @@ makedocs(;
         "CV" => "cv.md",
         "これまでやってきたこと" => "koremade.md",
         "物理ノート" => "notes.md",
+        "著書サポート" => "books.md"
     ],
 )
 

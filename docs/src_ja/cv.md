@@ -65,7 +65,7 @@ Y. Nagai
 [PDF](thesis/05nagai.pdf)  
 
 
-### 著書
+## 著書
 1. __永井佑紀__、涌井貞美（著）現代用語の基礎知識（編）,**理科のおさらい 物理 (おとなの楽習)**、自由国民社 (2008) ISBN-10: 4426103657   
 中学生のお子さんをもつお母さん向けの物理の本。
 
@@ -75,13 +75,17 @@ Y. Nagai
 3. 橋本幸士（編）、**物理学者、機械学習を使う**、朝倉書店（2019）、ISBN-978-4-254-13129-1  
 第5章「自己学習モンテカルロ法」を執筆。
 
-### Preprints
-1. __Yuki Nagai__, **N-independent Localized Krylov Bogoliubov-de Gennes Method: Ultra-fast Numerical Approach to Large-scale Inhomogeneous Superconductors**, [arXiv:2001.02362](https://arxiv.org/abs/2001.02362)
-2. Majid Kheirkhah, Zhongbo Yan, __Yuki Nagai__, Frank Marsiglio, **First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling**, [arXiv:2001.08739](https://arxiv.org/abs/2001.08739)
-3. Etsuko Itou  and __Yuki Nagai__, **Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions**, [arXiv:2004.02426](https://arxiv.org/abs/2004.02426)
-4. Taiki Matsushita, __Yuki Nagai__, Satoshi Fujimoto, **Spectrum collapse of disordered Dirac Landau levels as non-Hermitian topological phase transition**, [arXiv:2004.11014](https://arxiv.org/abs/2004.11014)
+4. __永井佑紀__、**1週間で学べる！　Julia数値計算プログラミング(KS情報科学専門書)**、講談社（2022年6月）
 
-### 学術論文(査読あり)
+## Preprints
+
+1. __Yuki Nagai__, Akinori Tanaka, Akio Tomiya, **Self-learning Monte-Carlo for non-abelian gauge theory with dynamical fermions**, [hep-lat/arXiv:2010.11900](https://arxiv.org/abs/2010.11900)
+2. Akio Tomiya, __Yuki Nagai__, **Gauge covariant neural network for 4 dimensional non-abelian gauge theory**, [hep-lat/arXiv:2103.11965](https://arxiv.org/abs/2103.11965)
+3. __Yuki Nagai__, Akio Tomiya, **Extensively parallelizable chiral fermion**, [hep-lat/arXiv:2204.01583](https://arxiv.org/abs/2204.01583)
+4. __Yuki Nagai__, Hiroshi Shinaoka, **Sparse modeling approach for quasiclassical theory of superconductivity**, [cond-mat/arXiv:2205.14800](https://arxiv.org/abs/2205.14800)
+5. Markus Wallerberger, Samuel Badr, Shintaro Hoshino, Fumiya Kakizawa, Takashi Koretsune, __Yuki Nagai__, Kosuke Nogaki, Takuya Nomoto, Hitoshi Mori, Junya Otsuki, Soshun Ozaki, Rihito Sakurai, Constanze Vogel, Niklas Witt, Kazuyoshi Yoshimi, Hiroshi Shinaoka, **sparse-ir: optimal compression and sparse sampling of many-body propagators**, [physics/arXiv:2206.11762](https://arxiv.org/abs/2206.11762)
+
+## 学術論文(査読あり)
 ####  原著論文（古い年次順で記載）52本（第一著者34本）
 1. __Y. Nagai__, Y. Kato and N. Hayashi, **Analytical Result on Electronic States around a Vortex Core in a Noncentrosymmetric Superconductor**, J. Phys. Soc. Jpn. 75 043706-1 043706-4 (2006) DOI: 10.1143/JPSJ.75.043706
 2. __Y. Nagai__, Y. Ueno, Y. Kato and N. Hayashi, **Analytical Formulation of the Local Density of States around a Vortex Core in Unconventional Superconductors**, J. Phys. Soc. Jpn. 75 104701-1 104701-14 (2006) DOI: 10.1143/JPSJ.75.104701
@@ -134,7 +138,18 @@ Y. Nagai
 49. K. Iida, __Y. Nagai__, S. Ishida, M. Ishikado, N. Murai, A. D. Christianson, H. Yoshida, Y. Inamura, H. Nakamura, A. Nakao, K. Munakata, D. Kagerbauer, M. Eisterer, K. Kawashima, Y. Yoshida, H. Eisaki, and A. Iyo, **Coexisting spin resonance and long-range magnetic order of Eu in EuRbFe4As4**, Phys. Rev. B 100, 014506 (2019), DOI: 10.1103/PhysRevB.100.014506
 50. M. Kheirkhah, __Y. Nagai__, C. Chen, F. Marsiglio, ** Majorana corner flat bands in two-dimensional second-order topological superconductors **, Phys. Rev. B 101, 104502 (2020), DOI: 10.1103/PhysRevB.101.104502
 51. T. Matsushita, __Y. Nagai__, S. Fujimoto, **Disorder-induced exceptional and hybrid rings in Weyl/Dirac semimetals**, Phys. Rev. B 100, 245205 (2019), DOI:10.1103/PhysRevB.100.245205
-52. __Y. Nagai__, M. Okumura, and A. Tanaka, **Self-learning Monte Carlo method with Behler-Parrinello neural networks **,  Phys. Rev. B 101, 115111 (2020), DOI:10.1103/PhysRevB.101.115111
+52. __Yuki Nagai__, **N-independent Localized Krylov Bogoliubov-de Gennes Method: Ultra-fast Numerical Approach to Large-scale Inhomogeneous Superconductors**, J. Phys. Soc. Jpn. 89, 074703 (2020)
+53. __Y. Nagai__, M. Okumura, and A. Tanaka, **Self-learning Monte Carlo method with Behler-Parrinello neural networks**,  Phys. Rev. B 101, 115111 (2020), DOI:10.1103/PhysRevB.101.115111
+54. Etsuko Itou  and __Yuki Nagai__, **Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions**, Journal of High Energy Physics volume 2020, 7 (2020)
+55. Majid Kheirkhah, Zhongbo Yan, __Yuki Nagai__, Frank Marsiglio, **First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling**, Phys. Rev. Lett. 125, 017001 (2020)
+56. __Yuki Nagai__, Yang Qi, Hiroki Isobe, Vladyslav Kozii, and Liang Fu, **DMFT Reveals the Non-Hermitian Topology and Fermi Arcs in Heavy-Fermion Systems**, Phys. Rev. Lett. 125, 227204-1, 227204-7 (2020)
+57. Hiroshi Shinaoka and __Yuki Nagai__, **Sparse modeling of large-scale quantum impurity models with low symmetries**, Physical Review B 103, 045120-1, 045120-8 (2021)
+58. Hidehiko Kohshiro, and __Yuki Nagai__, **Effective Ruderman–Kittel–Kasuya–Yosida-like Interaction in Diluted Double-exchange Model: Self-learning Monte Carlo Approach**, J. Phys. Soc. Jpn. 90, 034711-1, 034711-8 (2021)
+59. Taiki Matsushita, __Yuki Nagai__, and Satoshi Fujimoto, **Spectrum Collapse of Disordered Dirac Landau Levels as Topological Non-Hermitian Physics**, J. Phys. Soc. Jpn. 90, 074703-1, 074703-9 (2021)
+60. Keita Kobayashi, __Yuki Nagai__, Mitsuhiro Itakura, and Motoyuki Shiga, **Self-learning hybrid Monte Carlo method for isothermal-isobaric ensemble: Application to liquid silica**, The Journal of Chemical Physics 155, 034106-1, 034106-9 (2021)
+61. Howon Kim, __Yuki Nagai__, Levente Rózsa, Dominik Schreyer, and Roland Wiesendanger, **Anisotropic non-split zero-energy vortex bound states in a conventional superconductor**, Applied Physics Reviews 8, 031417-1, 031417-8 (2021)
+62. __Yuki Nagai__, **Intrinsic vortex pinning in superconducting quasicrystals**, to be published in Phys. Rev. B
+
 
 
 #### 国際学会プロシーディングス（古い年次順で記載）２４本（第一著者９本）
