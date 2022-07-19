@@ -67,11 +67,11 @@ end
 deploydocs(;
     target="build_en",
     devurl="en",
-    repo="github.com/cometscome/cometscome.github.io"
+    repo="github.com/cometscome/YukiNagai"
 )
 
 deploydocs(;
     target="build_ja",
     devurl="ja",
-    repo="github.com/cometscome/cometscome.github.io"
+    repo="github.com/cometscome/YukiNagai"
 )
