@@ -53,3 +53,22 @@ f(x,y) = \cos(x) + 2 \sin(2 y^2)
 \exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1+ i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
 ```
 最右辺の結果は変わりません。
+
+6. p.111　反発係数の定義式
+```math
+e = \frac{v'- V'}{v-V}
+```
+->
+```math
+e = -\frac{v'- V'}{v-V}
+```
+
+7. p.111 $V'$の表式
+```math
+V' = \frac{2v(r-1)V}{1+r}
+```
+->
+```math
+V' = \frac{2v+(r-1)V}{1+r}
+```
+コードに変更はありません。
