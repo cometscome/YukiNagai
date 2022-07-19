@@ -46,7 +46,9 @@ makedocs(;
         "CV" => "cv.md",
         "これまでやってきたこと" => "koremade.md",
         "物理ノート" => "notes.md",
-        "著書サポート" => "books.md"
+        "著書サポート"=>[
+            "1週間で学べる！　Julia数値計算プログラミング(KS情報科学専門書)" => "books/greenjulia.md",
+        ],
     ],
 )
 
