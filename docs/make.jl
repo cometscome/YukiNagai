@@ -4,7 +4,7 @@ using Documenter
 
 # English docs
 makedocs(;
-    modules=[YukiNagai],
+    #modules=[YukiNagai],
     authors="Yuki Nagai <cometscome@gmail.com>",
     repo="https://github.com/cometscome/cometscome.github.io/blob/{commit}{path}#L{line}",
     sitename="Yuki Nagai",
@@ -28,7 +28,7 @@ makedocs(;
 
 # Japanese docs
 makedocs(;
-    modules=[YukiNagai],
+    #modules=[YukiNagai],
     authors="Yuki Nagai <cometscome@gmail.com>",
     repo="https://github.com/cometscome/cometscome.github.io/blob/{commit}{path}#L{line}",
     sitename="Yuki Nagai",
