@@ -46,12 +46,7 @@
 
 #### 博士論文
 
-永井佑紀  
-
-鉄系超伝導体の超伝導対称性に関する理論的研究  
-
-博士論文 (東京大学)  
-
+永井佑紀  **鉄系超伝導体の超伝導対称性に関する理論的研究**  博士論文 (東京大学)  
 [PDF](thesis/Dron_Nagai.pdf)[10.9MB]  
 
 学位論文要旨[LINK](http://gazo.dl.itc.u-tokyo.ac.jp/gakui/cgi-bin/gazo.cgi?no=125566")
@@ -59,28 +54,19 @@
 
 #### 修士論文 
 
-永井佑紀  
-
-超伝導量子渦糸系における局所電子状態密度に関する解析的理論  
-
-修士論文 (東京大学)  
-
+永井佑紀  **超伝導量子渦糸系における局所電子状態密度に関する解析的理論**  修士論文 (東京大学)  
 [PDF](thesis/Shuron_nagai.pdf)[7.06MB]  
 
 
 #### 卒業論文
 
 Y. Nagai  
-
-Electron Temperature Distribution in Quantum Hall Systems with Potential Steps  
-
-Graduation Thesis (Hokkaido Univ.)  
-
+**Electron Temperature Distribution in Quantum Hall Systems with Potential Steps** Graduation Thesis (Hokkaido Univ.)  
 [PDF](thesis/05nagai.pdf)  
 
 
 ### 著書
-1. __永井佑紀__、涌井貞美（著）現代用語の基礎知識（編）,** 理科のおさらい 物理 (おとなの楽習)**、自由国民社 (2008) ISBN-10: 4426103657   
+1. __永井佑紀__、涌井貞美（著）現代用語の基礎知識（編）,**理科のおさらい 物理 (おとなの楽習)**、自由国民社 (2008) ISBN-10: 4426103657   
 中学生のお子さんをもつお母さん向けの物理の本。
 
 1. 門脇 和男（編）、**超伝導磁束状態の物理**、裳華房 (2017)、ISBN-10: 478532922X  
