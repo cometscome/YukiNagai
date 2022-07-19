@@ -1,6 +1,8 @@
-このサイトは現在作成中です。
-http://park.itc.u-tokyo.ac.jp/kato-yusuke-lab/nagai/
-をご覧ください。
+!!! warning
+    このサイトは現在作成中です。
+    http://park.itc.u-tokyo.ac.jp/kato-yusuke-lab/nagai/
+    をご覧ください。
+
 
 ---
 

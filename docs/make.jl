@@ -46,10 +46,6 @@ makedocs(;
         "CV" => "cv.md",
         "これまでやってきたこと" => "koremade.md",
         "物理ノート" => "notes.md",
-        #"PDF資料" => "pdf.md",
-        #"出展・発表歴" => "history.md",
-        #"SNS・連絡先" => "sns.md",
-        #"GitHub pages" => "githubpages.md",
     ],
 )
 
