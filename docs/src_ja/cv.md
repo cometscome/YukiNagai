@@ -86,7 +86,7 @@ Y. Nagai
 5. Markus Wallerberger, Samuel Badr, Shintaro Hoshino, Fumiya Kakizawa, Takashi Koretsune, __Yuki Nagai__, Kosuke Nogaki, Takuya Nomoto, Hitoshi Mori, Junya Otsuki, Soshun Ozaki, Rihito Sakurai, Constanze Vogel, Niklas Witt, Kazuyoshi Yoshimi, Hiroshi Shinaoka, **sparse-ir: optimal compression and sparse sampling of many-body propagators**, [physics/arXiv:2206.11762](https://arxiv.org/abs/2206.11762)
 
 ## 学術論文(査読あり)
-####  原著論文（古い年次順で記載）52本（第一著者34本）
+####  原著論文（古い年次順で記載）62本
 1. __Y. Nagai__, Y. Kato and N. Hayashi, **Analytical Result on Electronic States around a Vortex Core in a Noncentrosymmetric Superconductor**, J. Phys. Soc. Jpn. 75 043706-1 043706-4 (2006) DOI: 10.1143/JPSJ.75.043706
 2. __Y. Nagai__, Y. Ueno, Y. Kato and N. Hayashi, **Analytical Formulation of the Local Density of States around a Vortex Core in Unconventional Superconductors**, J. Phys. Soc. Jpn. 75 104701-1 104701-14 (2006) DOI: 10.1143/JPSJ.75.104701
 3. __Y. Nagai__, Y. Kato, N. Hayashi, K. Yamauchi and H. Harima, **Calculated Positions of Point Nodes in the Gap Structure of the Borocarbide Superconductor YNi2B2C**, Phys. Rev. B 76, 214514-1 214514-8 (2007) DOI: 10.1103/PhysRevB.76.214514
