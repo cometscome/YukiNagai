@@ -50,6 +50,7 @@ makedocs(;
     ],
 )
 
+#=
 for (root, dirs, files) in (walkdir("docs/build_en") ∪ walkdir("docs/build_ja"))
     for file in files
         if file == "index.html"
@@ -60,6 +61,7 @@ for (root, dirs, files) in (walkdir("docs/build_en") ∪ walkdir("docs/build_ja"
         end
     end
 end
+=#
 
 
 deploydocs(;
