@@ -5,7 +5,7 @@
 
 ## 第1刷の誤植
 
-1. p.123 中央付近
+- p.123 中央付近
 ```math
 d_{ij} = -(\delta_{i,i+1} + \delta_{i,i-1}-2\delta_{ij})/(\Delta x)^2
 ```
@@ -15,7 +15,7 @@ d_{ij} = -(\delta_{i,j+1} + \delta_{i,j-1}-2\delta_{ij})/(\Delta x)^2
 ```
 コードの修正はありません。
 
-2. p.129 ```V(q)```の式
+- p.129 ```V(q)```の式
 ```math
 e^{-eqx}
 ```
@@ -24,7 +24,7 @@ e^{-eqx}
 e^{-iqx}
 ```
 
-3. p.17 下部
+- p.17 下部
 ```math
 f(x) = \cos(x) + 2 \sin(3 x^2)
 ```
@@ -34,7 +34,7 @@ f(x) = \cos(x) + 2 \sin(2 x^2)
 ```
 が正しいです。
 
-4. p.19 上部
+- p.19 上部
 ```math
 f(x,y) = \cos(x) + 2 \sin(3 y^2)
 ```
@@ -44,7 +44,7 @@ f(x,y) = \cos(x) + 2 \sin(2 y^2)
 ```
 が正しいです。
 
-5. p.146 上部
+- p.146 上部
 ```math
 \exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1- i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
 ```
@@ -54,7 +54,7 @@ f(x,y) = \cos(x) + 2 \sin(2 y^2)
 ```
 最右辺の結果は変わりません。
 
-6. p.111　反発係数の定義式
+- p.111　反発係数の定義式
 ```math
 e = \frac{v'- V'}{v-V}
 ```
@@ -63,7 +63,7 @@ e = \frac{v'- V'}{v-V}
 e = -\frac{v'- V'}{v-V}
 ```
 
-7. p.111 $V'$の表式
+- p.111 $V'$の表式
 ```math
 V' = \frac{2v(r-1)V}{1+r}
 ```
