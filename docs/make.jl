@@ -44,6 +44,7 @@ makedocs(;
     pages=[
         "Home" => "index.md",
         "CV" => "cv.md",
+        "これまでやってきたこと" => "koremade.md",
         "物理ノート" => "notes.md",
         #"PDF資料" => "pdf.md",
         #"出展・発表歴" => "history.md",

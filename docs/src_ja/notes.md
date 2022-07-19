@@ -321,7 +321,7 @@ FortranやC並みに高速かつPythonのように書きやすい数値計算向
 ある論文を読むために、KR slave boson mean field theoryを調べた。 
 結局深入りはしなかったので、どんなことをしているかについてだけまとめた。 
 
-Hubbardモデルを用いたt-JモデルとHeisenbergモデルの導出](notes/note_070828_hei.pdf[) 
+[Hubbardモデルを用いたt-JモデルとHeisenbergモデルの導出](notes/note_070828_hei.pdf) 
 Hubbardモデルにおいて、ホッピング項が相互作用項より小さく二重占有が禁止されていれば、t-JモデルやHeisenbergモデルを導くことができる。 
 Hubbardモデルのハミルトニアンの相互作用のない場合とホッピング項がない場合の振る舞いを調べ、
 その後摂動論によりt-JモデルやHeisenbergモデルのハミルトニアンを導出した。 
@@ -385,11 +385,10 @@ HubbardモデルのRPAによる電荷感受率とスピン感受率の表式を�
 
 ---
 
-[Introduction to Superconductivity] 
+**Introduction to Superconductivity** 
 輪講で自分が担当したところのレジュメです。 
-<P>
-2 INTRODUCTION TO ELECTRODYNAMICS OF SUPERCONDUCTORS 
-notes/resume_rinko_2-3_af.pdf2.3 Type I Superconductors in Strong Magnetic Fields: The Intermediate State　() 
+- 2 INTRODUCTION TO ELECTRODYNAMICS OF SUPERCONDUCTORS 
+- [2.3 Type I Superconductors in Strong Magnetic Fields: The Intermediate State](notes/resume_rinko_2-3_af.pdf) 
 - 3 THE BCS THEORY 
 - [3.1-3.3](notes/resume_rinko_3_af.pdf) 
 - [3.6-3.7](notes/resume_rinko_3-6_f.pdf) 
