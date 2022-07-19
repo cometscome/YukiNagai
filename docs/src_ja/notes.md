@@ -5,10 +5,10 @@
 私がつらつらと理解したことを載せています。ノートは間違っている可能性はありますので注意してください。  
 同じところでひっかかってしまっている人の手助けになればと思っています。
 
-<A HREF= "note0413_Hartree-Fock.pdf">[Hartree-Fock近似に関するノート](note0413_Hartree-Fock.pdf) 
+[Hartree-Fock近似に関するノート](notes/note0413_Hartree-Fock.pdf) 
 Hartree-Fock方程式までの導出。 
 
-<A HREF= "note0415_daini.pdf">[第二量子化に関するノート(Fermionのみ）]() 
+[第二量子化に関するノート(Fermionのみ）](notes/note0415_daini.pdf) 
 第二量子化における二体の演算子の物理的イメージを理解しようとしたもの。 
 
 <A HREF= "note0428_2_Hartree-Fock.pdf">[第二量子化におけるHartree-Fock近似に関するノート]() 
