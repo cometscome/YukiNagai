@@ -34,7 +34,7 @@ f(x) = \cos(x) + 2 \sin(2 x^2)
 ```
 が正しいです。
 
-3. p.19 上部
+4. p.19 上部
 ```math
 f(x,y) = \cos(x) + 2 \sin(3 y^2)
 ```
@@ -43,3 +43,13 @@ f(x,y) = \cos(x) + 2 \sin(3 y^2)
 f(x,y) = \cos(x) + 2 \sin(2 y^2)
 ```
 が正しいです。
+
+5. p.146 上部
+```math
+\exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1- i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
+```
+->
+```math
+\exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1+ i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
+```
+最右辺の結果は変わりません。
