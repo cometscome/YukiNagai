@@ -82,6 +82,20 @@ V' = \frac{2v+(r-1)V}{1+r}
 ```
 コードに変更はありません。
 
+- p.117のコード
+```julia
+x,v = get_xv(small,ith)
+X,V = get_xv(large,ith)
+```
+の部分の2変数関数```get_xv(small,ith)```は本では定義されていませんでした。
+関数の終わり(25行目の後)に
+```julia
+function get_xv(ball::Ball, ith)  
+    return ball.x_history[ith], ball.v_history[ith]  
+end
+```
+を定義してください。[報告](https://github.com/cometscome/YukiNagai/issues/1#issuecomment-1191747775)ありがとうございます。
+
 ### 謝辞
 Twitterやメールなどを通じて誤植の指摘をしていただいた方々に深く感謝いたします。
 
