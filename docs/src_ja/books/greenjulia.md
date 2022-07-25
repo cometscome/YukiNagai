@@ -96,6 +96,104 @@ end
 ```
 を定義してください。[報告](https://github.com/cometscome/YukiNagai/issues/1#issuecomment-1191747775)ありがとうございます。
 
+- p130の```make_Hk```内
+```julia
+v += Ukkp
+```
+->
+```julia
+v += Vkkp
+```
+
+- p130の```calc_psi```内
+```julia
+nmax = length(bn)
+```
+->
+```julia
+nmax = length(cn)
+```
+です。
+- p138の```calc_Vij```
+正しくは、
+```julia
+function calc_Vij(n,i,j,R,V)
+    αi = besselj_zero(n,i)
+    αj = besselj_zero(n,j)
+    f(r) = r*V(R*r)*besselj(n,αi*r)*besselj(n,αj*r)
+    v,err  = quadgk(f,0,1)
+    Vij =v*2/besselj(n+1,αi)^2 
+    return Vij
+end
+```
+です（申し訳ありません。なぜこんな間違いになっているか、謎です）。
+
+- p141の```timedep_simple()```内
+```julia
+H = zeros(Float64,N,N)
+make_H!(H,N,L,V)
+```
+->
+```julia
+H = make_H(N,L,V)
+```
+```make_H!```はp143で定義されていますので、この修正をしなくてもそちらを先に定義してからなら動きます（登場順番が逆になっています）。[報告](https://github.com/cometscome/YukiNagai/issues/1#issuecomment-1192714109)ありがとうございます。
+
+
+- p160の```test6```
+コードの定義の前に、
+```julia
+using Plots
+using Measures
+```
+を追加。```add Measures```でパッケージを追加しておく必要があります。
+
+- p170のコード
+```julia
+return mz_data,accept_count/(num_total*Lx*Ly)
+```
+-> 
+```julia
+return mz_data,accept_count/(num_total*Lx*Ly),absmz_meanvalue/measure_count
+```
+です。p173のコードを動かすためには引数が一つ足りませんでした。関連して、p171のコードはp173と同様に
+```julia
+@time mz_data,acceptance_ratio
+```
+->
+```julia
+@time mz_data,acceptance_ratio,absmz
+```
+と修正してください。
+
+- p170のコード
+引数が${\rm measure_{i}nterval}$となっているものを
+```julia
+measure_interval
+```
+と修正。
+
+- p210のOptim
+```julia
+optimize(f, [0.0, 0.0])
+```
+->
+```julia
+a1 = optimize(f, [0.0, 0.0])
+```
+と修正。
+
+- p232のコード
+14行目と15行目の間に
+```julia
+n = 10000
+```
+を挿入。
+
+
+
+
+
 ### 謝辞
 Twitterやメールなどを通じて誤植の指摘をしていただいた方々に深く感謝いたします。
 
