@@ -10,33 +10,14 @@
 - 2022年8月3日　動作確認したコードの公開を始めました（2章から順番にアップロードしていきます）
 
 ## 動作確認したコード
-コメントなどは省いたipythonノートブックです。ipythonで実行できますが、それぞれをコピーして本の通りにREPLで実行することも可能です。動作確認にはJulia 1.7.3を用いています。
-- [2日目](02.ipynb)
+コメントなどは省いたJupyterノートブックとコードです。コードの方は開いて該当箇所をREPLにコピーペーストすることで動かすことができます。動作確認にはJulia 1.7.3を用いています。
+- 2日目 [Jupyter notebook](02.ipynb)と[コード](02.jl)
 
 ## 誤植について
 もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/1)に記入していただければチェックして反映したいと思います。
 
 
 ## 第1刷の誤植
-
-- p.123 中央付近
-```math
-d_{ij} = -(\delta_{i,i+1} + \delta_{i,i-1}-2\delta_{ij})/(\Delta x)^2
-```
-->
-```math
-d_{ij} = -(\delta_{i,j+1} + \delta_{i,j-1}-2\delta_{ij})/(\Delta x)^2
-```
-コードの修正はありません。
-
-- p.129 ```V(q)```の式
-```math
-e^{-eqx}
-```
-->
-```math
-e^{-iqx}
-```
 
 - p.17 下部
 ```math
@@ -58,15 +39,14 @@ f(x,y) = \cos(x) + 2 \sin(2 y^2)
 ```
 が正しいです。
 
-- p.146 上部
-```math
-\exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1- i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
+- p.102 最後のplot
+```julia
+markershape = [:circle,:star5]
 ```
 ->
-```math
-\exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1+ i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
+```julia
+markershape = [:circle :star5]
 ```
-最右辺の結果は変わりません。
 
 - p.111　反発係数の定義式
 ```math
@@ -100,6 +80,26 @@ function get_xv(ball::Ball, ith)
 end
 ```
 を定義してください。[報告](https://github.com/cometscome/YukiNagai/issues/1#issuecomment-1191747775)ありがとうございます。
+
+
+- p.123 中央付近
+```math
+d_{ij} = -(\delta_{i,i+1} + \delta_{i,i-1}-2\delta_{ij})/(\Delta x)^2
+```
+->
+```math
+d_{ij} = -(\delta_{i,j+1} + \delta_{i,j-1}-2\delta_{ij})/(\Delta x)^2
+```
+コードの修正はありません。
+
+- p.129 ```V(q)```の式
+```math
+e^{-eqx}
+```
+->
+```math
+e^{-iqx}
+```
 
 - p130の```make_Hk```内
 ```julia
@@ -143,6 +143,21 @@ make_H!(H,N,L,V)
 H = make_H(N,L,V)
 ```
 ```make_H!```はp143で定義されていますので、この修正をしなくてもそちらを先に定義してからなら動きます（登場順番が逆になっています）。[報告](https://github.com/cometscome/YukiNagai/issues/1#issuecomment-1192714109)ありがとうございます。
+
+
+
+- p.146 上部
+```math
+\exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1- i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
+```
+->
+```math
+\exp(i {\cal H} \Delta t) \exp(-i {\cal H} \Delta t) \sim (1+ i {\cal H} \Delta t)(1- i {\cal H} \Delta t)
+```
+最右辺の結果は変わりません。
+
+
+
 
 
 - p160の```test6```
@@ -194,6 +209,7 @@ a1 = optimize(f, [0.0, 0.0])
 n = 10000
 ```
 を挿入。
+
 
 
 
