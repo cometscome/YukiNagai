@@ -12,6 +12,7 @@
 ## 動作確認したコード
 コメントなどは省いたJupyterノートブックとコードです。コードの方は開いて該当箇所をREPLにコピーペーストすることで動かすことができます。動作確認にはJulia 1.7.3を用いています。
 - 2日目 [Jupyter notebook](02.ipynb)と[コード](02.jl)
+- 3日目 [Jupyter notebook](03.ipynb)と[コード1](03_1.jl)、[コード2](03_2.jl)、[コード3](03_3.jl)
 
 ## 誤植について
 もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/1)に記入していただければチェックして反映したいと思います。
@@ -39,6 +40,9 @@ f(x,y) = \cos(x) + 2 \sin(2 y^2)
 ```
 が正しいです。
 
+- p.95
+```正$(8N)角形の場合```は```正$(N)角形の場合```が正しいです。本文の出力を全て8で割って読み替えてください。
+
 - p.102 最後のplot
 ```julia
 markershape = [:circle,:star5]
@@ -46,6 +50,15 @@ markershape = [:circle,:star5]
 ->
 ```julia
 markershape = [:circle :star5]
+```
+
+- p.105の最後
+```julia
+n = 10000
+```
+-> 
+```julia
+N = 10000
 ```
 
 - p.111　反発係数の定義式
