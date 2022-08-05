@@ -13,6 +13,7 @@
 コメントなどは省いたJupyterノートブックとコードです。コードの方は開いて該当箇所をREPLにコピーペーストすることで動かすことができます。動作確認にはJulia 1.7.3を用いています。
 - 2日目 [Jupyter notebook](02.ipynb)と[コード](02.jl)
 - 3日目 [Jupyter notebook](03.ipynb)と[コード1](03_1.jl)、[コード2](03_2.jl)、[コード3](03_3.jl)
+- 4日目 [Jupyter notebook その1](04_1.ipynb)と[Jupyter notebook その2](04_2.ipynb)、[コード1](04_1.jl)と[コード2](04_2.jl)
 
 ## 誤植について
 もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/1)に記入していただければチェックして反映したいと思います。
