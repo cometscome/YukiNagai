@@ -14,6 +14,7 @@
 - 2日目 [Jupyter notebook](02.ipynb)と[コード](02.jl)
 - 3日目 [Jupyter notebook](03.ipynb)と[コード1](03_1.jl)、[コード2](03_2.jl)、[コード3](03_3.jl)
 - 4日目 [Jupyter notebook その1](04_1.ipynb)と[Jupyter notebook その2](04_2.ipynb)、[コード1](04_1.jl)と[コード2](04_2.jl)
+- 5日目　[Jupyter notebook その1](05_1.ipynb)と[コード　その1](05_1.jl)。本書ではJulia 1.6を用いていましたが、Julia 1.7以降だと乱数の発生方法が変わっているためにそのままでは本書の結果を再現できません（乱数が違う程度の値の変化があります）。ですので、二種類のコードを用意しました。Julia 1.6以前で再現する場合の[Jupyter notebook その2](05_2.ipynb)と[コード　その2](05_2.jl)。Julia 1.7以降を使う場合に本書を再現する場合の[Jupyter notebook その2](05_2_1_7.ipynb) と[コード　その2](05_2_1_7.jl)。
 
 ## 誤植について
 もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/1)に記入していただければチェックして反映したいと思います。
