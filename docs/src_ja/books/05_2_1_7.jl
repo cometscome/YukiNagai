@@ -197,3 +197,141 @@ function test_tdep()
 end
 
 test_tdep()
+
+function montecarlo_fast(filename,num_thermal,num_MC,measure_interval,T,J,h,Lx,Ly)
+    ENV["GKSwstype"] = "nul"
+    #Random.seed!(123)
+    rng = MersenneTwister(123)
+    num_total = num_thermal+num_MC
+    accept_count = 0
+    absmz_meanvalue = 0
+    measure_count = 0
+    mz_data = []
+    update(Ck,ix,iy) = local_metropolis_update(Ck,ix,iy,T,J,h,Lx,Ly,rng)
+    
+    Ck = initialize_spins(Lx,Ly,rng)
+    
+    ising = @animate for trj = 1:num_total
+        for ix = 1:Lx
+            for iy=1:Ly
+                Ck[ix,iy],is_accepted = update(Ck,ix,iy)
+            
+                accept_count += ifelse(is_accepted,1,0)
+            end
+        end
+        
+        if trj > num_thermal
+            if trj % measure_interval == 0
+                measure_count += 1
+                mz = measure_Mz(Ck)/(Lx*Ly)
+                absmz_meanvalue += abs(mz)
+                push!(mz_data,mz)
+            end
+        end 
+        heatmap(1:Lx,1:Ly,Ck,aspect_ratio=:equal)
+    end every 100
+    gif(ising, "./"*filename, fps = 15)  
+    return mz_data,accept_count/(num_total*Lx*Ly),absmz_meanvalue/measure_count
+                
+end
+
+function test_anime()
+    Lx = 100
+    Ly = 100
+    J = 1
+    h = 0
+    num_thermal = 5000
+    num_MC =20000-num_thermal
+    measure_interval = 10
+    T = 0.5
+    @time mz_data,acceptance_ratio,absmz = montecarlo_fast("ising_T$T.gif",num_thermal,num_MC,measure_interval,T,J,h,Lx,Ly)
+
+    println("average acceptance ratio ",acceptance_ratio)
+    histogram(mz_data,bin=-1:0.01:1)
+    savefig("mz_data_$(T).png")
+    return
+end
+test_anime()
+
+function montecarlo_fast(num_thermal,num_MC,measure_interval,T,J,h,Lx,Ly)
+    #Random.seed!(123)
+    rng = MersenneTwister(123)
+    num_total = num_thermal+num_MC
+    accept_count = 0
+    absmz_meanvalue = 0
+    measure_count = 0
+    mz_data = []
+    update(Ck,ix,iy) = local_metropolis_update(Ck,ix,iy,T,J,h,Lx,Ly,rng)
+    E2_meanvalue = 0.0 
+    E_meanvalue = 0.0 
+    
+    Ck = initialize_spins(Lx,Ly,rng)
+    
+    for trj = 1:num_total
+        if trj > num_thermal && rand(rng) < 0.01 
+            @. Ck *= -1
+            continue
+        end
+        
+        for ix = 1:Lx
+            for iy=1:Ly
+                Ck[ix,iy],is_accepted = update(Ck,ix,iy)
+            
+                accept_count += ifelse(is_accepted,1,0)
+            end
+        end
+        
+        if trj > num_thermal
+            if trj % measure_interval == 0
+                measure_count += 1
+                mz = measure_Mz(Ck)/(Lx*Ly)
+                absmz_meanvalue += abs(mz)
+                push!(mz_data,mz)
+                
+                E = measure_energy(Ck,J,h,Lx,Ly)
+                E2_meanvalue += E^2
+                E_meanvalue += E
+                
+            end
+        end 
+    end
+    Cv = (E2_meanvalue/measure_count - (E_meanvalue/measure_count)^2)/T^2
+
+    return mz_data,accept_count/(num_total*Lx*Ly),absmz_meanvalue/measure_count,Cv
+                
+end
+
+
+function test_tdep()
+    Lx = 96
+    Ly = 96
+    J = 1
+    h = 0
+    num_thermal = 20000
+    num_MC =100000-num_thermal
+    measure_interval = 10
+    mz_Tdep = []
+    Cv_Tdep = []
+
+    nT = 20
+    Ts = range(0.5,4.0,length= nT)
+    for T in Ts
+        @time mz_data,acceptance_ratio,absmz,Cv = montecarlo_fast(num_thermal,num_MC,measure_interval,T,J,h,Lx,Ly)
+        push!(mz_Tdep,absmz)
+        push!(Cv_Tdep,Cv)
+        println("$T $absmz, $Cv")
+        histogram(mz_data,bin=-1:0.01:1)
+        savefig("mz_data_L$(Lx)_T$(T).png")
+
+        plot(mz_data)
+        savefig("mz_trjdep_L$(Lx)_T$(T).png")
+    end
+    plot(Ts,mz_Tdep)
+    savefig("mz_tdep_L$(Lx).png")
+
+    plot(Ts,Cv_Tdep)
+    savefig("Cv_tdep_L$(Lx).png")
+    return
+end
+
+test_tdep()
