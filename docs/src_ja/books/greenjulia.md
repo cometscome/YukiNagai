@@ -134,6 +134,16 @@ nmax = length(bn)
 nmax = length(cn)
 ```
 です。
+- p133の変数変換は$r = r' \sqrt{R}$ではなく$r' = r \sqrt{R}$でした。
+- p133 5行目の式、左辺第三項
+```math
+(r'-n^2) \rightarrow (r'^2 -n^2)
+```
+- p133 5行目の式、左辺第四項
+```math
+V(r) \rightarrow V(r')
+```
+です。
 - p138の```calc_Vij```
 正しくは、
 ```julia
@@ -147,7 +157,11 @@ function calc_Vij(n,i,j,R,V)
 end
 ```
 です（申し訳ありません。なぜこんな間違いになっているか、謎です）。
-
+- p138の式
+```math
+(R/20) \rightarrow (R/20)^2
+```
+でした（コード内の訂正はありません）。
 - p141の```timedep_simple()```内
 ```julia
 H = zeros(Float64,N,N)
