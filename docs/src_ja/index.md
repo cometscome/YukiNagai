@@ -8,17 +8,19 @@
 
 ```
 Yuki Nagai, Ph. D  
-CCSE, Japan Atomic Energy Agency (JAEA)   
-Position : Senior Scientist   
+Information Technology Center, The University of Tokyo
+Position : Associate Professor
 
 
-2018- Visiting resercher in RIKEN AIP  
+2010-2024: Senior Scientist , CCSE, Japan Atomic Energy Agency (JAEA)   
 2016-2017: Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)  
+2018-2023: Visiting resercher in RIKEN AIP  
+
 
 MAJOR: Condensed Matter Physics (Theory)  
 especially, <b>Superconductivity</b>
 
-Email : Nagai.Yuki_-at.-mark.-_jaea.go.jp (Replace _-at-mark-_ with @) 
+Email : Nagai.Yuki_-at.-mark.-_mail.u-tokyo.ac.jp (Replace _-at-mark-_ with @) 
 ```
 
 Researcher ID:
@@ -32,12 +34,11 @@ Researcher ID:
 ```
 永井佑紀  
 
-国立研究開発法人日本原子力研究開発機構　システム計算科学センター　シミュレーション技術開発室　副主任研究員   
-国立研究開発法人理化学研究所　革新知能統合研究センター 数理科学チーム　客員研究員   
+東京大学 情報基盤センター 准教授
 ```
 
 ### 連絡先
-Email: Nagai.Yuki_-at.-mark.-_jaea.go.jp ("_"で囲まれた部分を取り去ってください) 
+Email: Nagai.Yuki_-at.-mark.-_mail.u-tokyo.ac.jp ("_"で囲まれた部分を取り去ってください) 
 
 ## 専門
 物性理論、特に固体物理
