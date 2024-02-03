@@ -24,7 +24,7 @@ Email: Nagai.YukiU-at.-mark.-Umail.u-tokyo.ac.jp ("U"で囲まれた部分を取
 ---
 
 
-## 学歴職歴教育歴
+## CV
 ### 学歴
 |年|月||
 |---|---|---|

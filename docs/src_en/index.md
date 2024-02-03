@@ -1,11 +1,14 @@
 Yuki Nagai, Ph. D  
+
 Information Technology Center, The University of Tokyo
+
 Position : Associate Professor
 
-
-2010-2024: Senior Scientist , CCSE, Japan Atomic Energy Agency (JAEA)   
-2016-2017: Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)  
-2018-2023: Visiting resercher in RIKEN AIP  
+|Year||
+|---|---|
+|2010-2024| Senior Scientist , CCSE, Japan Atomic Energy Agency (JAEA)   |
+|2016-2017|Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)|  
+|2018-2023| Visiting resercher in RIKEN AIP  |
 
 
 MAJOR: Condensed Matter Physics (Theory)  
