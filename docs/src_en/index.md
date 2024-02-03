@@ -1,7 +1,24 @@
+Yuki Nagai, Ph. D  
+Information Technology Center, The University of Tokyo
+Position : Associate Professor
 
-| 2001-2005 | B. Eng. Department of Applied Physics, Hokkaido University. | Supervisor: Prof. H. Akera.|  Subject  "Electron Temperature Distribution in Quantum Hall Systems with Potential Steps"
-|2005-2007 | M. Sci. Department of Physics, University of Tokyo. | Supervisor : Asso. Prof. Y. Kato.| Subject : "Analytical Theory of the Local Density of States around a Vortex in Superconductors"
-|2007-2010 | Ph. D. research at Department of Physics, University of Tokyo. | Supervisor : Asso. Prof. Y. Kato.| Subject : "Theoretical study of pairing symmetries in iron-based superconductors"
+
+2010-2024: Senior Scientist , CCSE, Japan Atomic Energy Agency (JAEA)   
+2016-2017: Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)  
+2018-2023: Visiting resercher in RIKEN AIP  
+
+
+MAJOR: Condensed Matter Physics (Theory)  
+especially, <b>Superconductivity</b>
+
+Email : Nagai.YukiU-at.-mark.-Umail.u-tokyo.ac.jp (Replace U-at-mark-U with @) 
+
+|Year||Supervisor|Subject|
+|---|---|---|---|
+| 2001-2005 | B. Eng. Department of Applied Physics, Hokkaido University. | Prof. H. Akera.|  "Electron Temperature Distribution in Quantum Hall Systems with Potential Steps"
+|2005-2007 | M. Sci. Department of Physics, University of Tokyo. |  Asso. Prof. Y. Kato.| "Analytical Theory of the Local Density of States around a Vortex in Superconductors"
+|2007-2010 | Ph. D. research at Department of Physics, University of Tokyo. | Asso. Prof. Y. Kato.|  "Theoretical study of pairing symmetries in iron-based superconductors"
+
 
 ### Awards
 Mar. 2015 : Young Scientist Award of the Physical Society of Japan  
