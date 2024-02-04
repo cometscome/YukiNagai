@@ -4,11 +4,11 @@ Information Technology Center, The University of Tokyo
 
 Position : Associate Professor
 
-|Year||
-|---|---|
-|2010-2024| Senior Scientist , CCSE, Japan Atomic Energy Agency (JAEA)   |
-|2016-2017|Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)|  
-|2018-2023| Visiting resercher in RIKEN AIP  |
+| Year      |                                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2010-2024 | Senior Scientist , CCSE, Japan Atomic Energy Agency (JAEA)                                                           |
+| 2016-2017 | Visiting Scholar, Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu) |
+| 2018-2023 | Visiting resercher in RIKEN AIP                                                                                      |
 
 
 MAJOR: Condensed Matter Physics (Theory)  
@@ -16,11 +16,11 @@ especially, <b>Superconductivity</b>
 
 Email : Nagai.YukiU-at.-mark.-Umail.u-tokyo.ac.jp (Replace U-at-mark-U with @) 
 
-|Year||Supervisor|Subject|
-|---|---|---|---|
-| 2001-2005 | B. Eng. Department of Applied Physics, Hokkaido University. | Prof. H. Akera.|  "Electron Temperature Distribution in Quantum Hall Systems with Potential Steps"
-|2005-2007 | M. Sci. Department of Physics, University of Tokyo. |  Asso. Prof. Y. Kato.| "Analytical Theory of the Local Density of States around a Vortex in Superconductors"
-|2007-2010 | Ph. D. research at Department of Physics, University of Tokyo. | Asso. Prof. Y. Kato.|  "Theoretical study of pairing symmetries in iron-based superconductors"
+| Year      |                                                                | Supervisor           | Subject                                                                               |
+| --------- | -------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------- |
+| 2001-2005 | B. Eng. Department of Applied Physics, Hokkaido University.    | Prof. H. Akera.      | "Electron Temperature Distribution in Quantum Hall Systems with Potential Steps"      |
+| 2005-2007 | M. Sci. Department of Physics, University of Tokyo.            | Asso. Prof. Y. Kato. | "Analytical Theory of the Local Density of States around a Vortex in Superconductors" |
+| 2007-2010 | Ph. D. research at Department of Physics, University of Tokyo. | Asso. Prof. Y. Kato. | "Theoretical study of pairing symmetries in iron-based superconductors"               |
 
 
 ### Awards
@@ -30,10 +30,13 @@ Mar. 2015 : Young Scientist Award of the Physical Society of Japan
 ### Researches
 
 ### Preprints
-1. <u>Yuki Nagai</u>, <b>N-independent Localized Krylov Bogoliubov-de Gennes Method: Ultra-fast Numerical Approach to Large-scale Inhomogeneous Superconductors</b>, [arXiv:2001.02362](https://arxiv.org/abs/2001.02362)
-2. Majid Kheirkhah, Zhongbo Yan, <u>Yuki Nagai</u>, Frank Marsiglio, <b>First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling</b>, [arXiv:2001.08739](https://arxiv.org/abs/2001.08739)
-3. Etsuko Itou  and <u>Yuki Nagai</u>, <b>Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions</b>, [arXiv:2004.02426](https://arxiv.org/abs/2004.02426)
-4. Taiki Matsushita, <u>Yuki Nagai</u>, Satoshi Fujimoto, <b>Spectrum collapse of disordered Dirac Landau levels as non-Hermitian topological phase transition</b>, [arXiv:2004.11014](https://arxiv.org/abs/2004.11014)
+1. Akio Tomiya, __Yuki Nagai__, *Gauge covariant neural network for 4 dimensional non-abelian gauge theory*, [hep-lat/arXiv:2103.11965](https://arxiv.org/abs/2103.11965)
+2. __Yuki Nagai__, Akio Tomiya, *Extensively parallelizable chiral fermion*, [hep-lat/arXiv:2204.01583](https://arxiv.org/abs/2204.01583)
+3. __Yuki Nagai__, Yutaka Iwasaki, Koichi Kitahara, Yoshiki Takagiwa, Kaoru Kimura, Motoyuki Shiga, *Atomic diffusion due to hyperatomic fluctuation for quasicrystals*, [cond-mat/2302.14441](https://arxiv.org/abs/2302.14441)
+4. __Yuki Nagai__, Akio Tomiya, *Self-learning Monte Carlo with equivariant Transformer*, [cond-mat/arXiv:2306.11527](https://browse.arxiv.org/abs/2306.11527)
+5. Yuita Fujisawa, Anjana Krishnadas, Barnaby R. M. Smith, Markel Pardo-Almanza, Hoshu Hiyane, __Yuki Nagai__, Tadashi Machida, Yoshinori Okada, *Imaging Josephson Vortices on Curved Junctions*, [cond-mat/arXiv:2307.11970](https://browse.arxiv.org/abs/2307.11970)
+6. Yuita Fujisawa, Anjana Krishnadas, Chia-Hsiu Hsu, Barnaby R. M. Smith, Markel Pardo-Almanza, Yukiko Obata, Dyon van Dinter, Guoqing Chang, __Yuki Nagai__, Tadashi Machida, Yoshinori Okada, *Visualizing magnetic field-induced rotational electronic symmetry breaking in a spinel oxide superconductor*, [cond-mat/arXiv:2306.06711](https://browse.arxiv.org/abs/2306.06711)
+
 
 ####  Original Papers
 1. __Y. Nagai__, Y. Kato and N. Hayashi, *Analytical Result on Electronic States around a Vortex Core in a Noncentrosymmetric Superconductor*, J. Phys. Soc. Jpn. 75 043706-1 043706-4 (2006) DOI: 10.1143/JPSJ.75.043706
@@ -92,14 +95,17 @@ Mar. 2015 : Young Scientist Award of the Physical Society of Japan
 54. Etsuko Itou  and __Yuki Nagai__, *Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions*, Journal of High Energy Physics volume 2020, 7 (2020)
 55. Majid Kheirkhah, Zhongbo Yan, __Yuki Nagai__, Frank Marsiglio, *First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling*, Phys. Rev. Lett. 125, 017001 (2020)
 56. __Yuki Nagai__, Yang Qi, Hiroki Isobe, Vladyslav Kozii, and Liang Fu, *DMFT Reveals the Non-Hermitian Topology and Fermi Arcs in Heavy-Fermion Systems*, Phys. Rev. Lett. 125, 227204-1, 227204-7 (2020)
-57. Hiroshi Shinaoka and __Yuki Nagai__, *Sparse modeling of large-scale quantum impurity models with low symmetries*, Physical Review B 103, 045120-1, 045120-8 (2021)
-58. Hidehiko Kohshiro, and __Yuki Nagai__, *Effective Ruderman–Kittel–Kasuya–Yosida-like Interaction in Diluted Double-exchange Model: Self-learning Monte Carlo Approach*, J. Phys. Soc. Jpn. 90, 034711-1, 034711-8 (2021)
-59. Taiki Matsushita, __Yuki Nagai__, and Satoshi Fujimoto, *Spectrum Collapse of Disordered Dirac Landau Levels as Topological Non-Hermitian Physics*, J. Phys. Soc. Jpn. 90, 074703-1, 074703-9 (2021)
-60. Keita Kobayashi, __Yuki Nagai__, Mitsuhiro Itakura, and Motoyuki Shiga, *Self-learning hybrid Monte Carlo method for isothermal-isobaric ensemble: Application to liquid silica*, The Journal of Chemical Physics 155, 034106-1, 034106-9 (2021)
-61. Howon Kim, __Yuki Nagai__, Levente Rózsa, Dominik Schreyer, and Roland Wiesendanger, *Anisotropic non-split zero-energy vortex bound states in a conventional superconductor*, Applied Physics Reviews 8, 031417-1, 031417-8 (2021)
-62. __Yuki Nagai__, *Intrinsic vortex pinning in superconducting quasicrystals*, to be published in Phys. Rev. B
-
-
+57. __Yuki Nagai__, Masahiko Okumura, Keita Kobayashi, and Motoyuki Shiga, *Self-learning hybrid Monte Carlo: A first-principles approach*, Phys. Rev. B 102, 041124(R)-1,041124(R)-6 (2020)
+58. Hiroshi Shinaoka and __Yuki Nagai__, *Sparse modeling of large-scale quantum impurity models with low symmetries*, Physical Review B 103, 045120-1, 045120-8 (2021)
+59. Hidehiko Kohshiro, and __Yuki Nagai__, *Effective Ruderman–Kittel–Kasuya–Yosida-like Interaction in Diluted Double-exchange Model: Self-learning Monte Carlo Approach*, J. Phys. Soc. Jpn. 90, 034711-1, 034711-8 (2021)
+60. Taiki Matsushita, __Yuki Nagai__, and Satoshi Fujimoto, *Spectrum Collapse of Disordered Dirac Landau Levels as Topological Non-Hermitian Physics*, J. Phys. Soc. Jpn. 90, 074703-1, 074703-9 (2021)
+61. Keita Kobayashi, __Yuki Nagai__, Mitsuhiro Itakura, and Motoyuki Shiga, *Self-learning hybrid Monte Carlo method for isothermal-isobaric ensemble: Application to liquid silica*, The Journal of Chemical Physics 155, 034106-1, 034106-9 (2021)
+62. Howon Kim, __Yuki Nagai__, Levente Rózsa, Dominik Schreyer, and Roland Wiesendanger, *Anisotropic non-split zero-energy vortex bound states in a conventional superconductor*, Applied Physics Reviews 8, 031417-1, 031417-8 (2021)
+63. __Yuki Nagai__, *Intrinsic vortex pinning in superconducting quasicrystals*, Phys. Rev B 106, 064506-1-10 (2022)
+64. Markus Wallerberger, Samuel Badr, Shintaro Hoshino, Sebastian Huber, Fumiya Kakizawa, Takashi Koretsune, __Yuki Nagai__, Kosuke Nogaki, Takuya Nomoto, Hitoshi Mori, Junya Otsuki, Soshun Ozaki, Thomas Plaikner, Rihito Sakurai, Constanze Vogel, Niklas Witt, Kazuyoshi Yoshimi, Hiroshi Shinaoka, *sparse-ir: Optimal compression and sparse sampling of many-body propagators*, SoftwareX 21 101266 1-7 (2023)
+65. T. Machida, __Yuki Nagai__, and T. Hanaguri, *Zeeman effects on Yu-Shiba-Rusinov states*, Phys. Rev. Research 4, 033182 1-12 (2022)
+66. __Yuki Nagai__, Akinori Tanaka, and Akio Tomiya, *Self-learning Monte Carlo for non-Abelian gauge theory with dynamical fermions*, Phys. Rev. D 107, 054501 1-16 (2023)
+67. __Yuki Nagai__, and Hiroshi Shinaoka, *Sparse Modeling Approach for Quasiclassical Theory of Superconductivity*, Journal of the Physical Society of Japan 92, 034703 1-8  (2023)
 
 
 #### Proceedings

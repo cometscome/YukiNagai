@@ -2,12 +2,12 @@
 
 
 
-|           |    |
-|--------|:-------------|
-|2001年3月          |私立札幌光星高校卒業   |
-|2005年3月|北海道大学工学部応用物理学科卒業 （物性物理工学分野：明楽浩史教授）|
-|2007年3月|東京大学大学院理学系研究科物理学専攻修士課程修了 （加藤雄介助教授）|
-|2010年3月|東京大学大学院理学系研究科物理学専攻博士課程修了 （加藤雄介准教授）|
+|           |                                                                     |
+| --------- | :------------------------------------------------------------------ |
+| 2001年3月 | 私立札幌光星高校卒業                                                |
+| 2005年3月 | 北海道大学工学部応用物理学科卒業 （物性物理工学分野：明楽浩史教授） |
+| 2007年3月 | 東京大学大学院理学系研究科物理学専攻修士課程修了 （加藤雄介助教授） |
+| 2010年3月 | 東京大学大学院理学系研究科物理学専攻博士課程修了 （加藤雄介准教授） |
 
 ## 学位
 
@@ -15,32 +15,32 @@
 
 ## 職歴等
 
-|           |    |
-|--------|:-------------|
-| 2005年度夏学期|	物理学B（力学）TA|
-| 2006年度冬学期|	基礎物理学実験TA|
-| 2007年5月16日〜6月15日|	京都大学基礎物理学研究所アトム型研究員|
-| 2007年4月〜2008年3月|	理化学研究所古崎物性理論研究室JRA（ジュニア・リサーチ・アソシエイト）|
-| 2007年度冬学期|	基礎物理学実験TA（回数は半分）|
-| 2008年4月〜2010年3月|	日本学術振興会特別研究員(DC2)|
-| 2008年度冬学期|基礎物理学実験TA（回数は半分）|
-| 2009年度冬学期|	基礎物理学実験TA（回数は半分）|
-| 2009年度冬学期|	英語ALESS Program 実験相談会TA|
-| 2016年11月〜2017年10月|	客員研究員（Visiting Scholar), Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)|
-| 2010年4月〜2019年6月|	国立研究開発法人日本原子力研究開発機構　システム計算科学センター　シミュレーション技術開発室　研究員 |
-| 2018年8月〜|	国立研究開発法人理化学研究所　革新知能統合研究センター 数理科学チーム　客員研究員 |
-| 2019年4月〜2020年3月|	学習院大学物理学科　非常勤講師　（担当講義:　熱学および統計力学２　物３年 （第一学期）　および　熱学および統計力学３　物３年 (第二学期)） |
-| 2019年7月〜|	現職 |
+|                        |                                                                                                                                           |
+| ---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| 2005年度夏学期         | 物理学B（力学）TA                                                                                                                         |
+| 2006年度冬学期         | 基礎物理学実験TA                                                                                                                          |
+| 2007年5月16日〜6月15日 | 京都大学基礎物理学研究所アトム型研究員                                                                                                    |
+| 2007年4月〜2008年3月   | 理化学研究所古崎物性理論研究室JRA（ジュニア・リサーチ・アソシエイト）                                                                     |
+| 2007年度冬学期         | 基礎物理学実験TA（回数は半分）                                                                                                            |
+| 2008年4月〜2010年3月   | 日本学術振興会特別研究員(DC2)                                                                                                             |
+| 2008年度冬学期         | 基礎物理学実験TA（回数は半分）                                                                                                            |
+| 2009年度冬学期         | 基礎物理学実験TA（回数は半分）                                                                                                            |
+| 2009年度冬学期         | 英語ALESS Program 実験相談会TA                                                                                                            |
+| 2016年11月〜2017年10月 | 客員研究員（Visiting Scholar), Department of Physics, Massachusetts Institute of Technology, USA (Host reseacher: Prof. Liang Fu)         |
+| 2010年4月〜2019年6月   | 国立研究開発法人日本原子力研究開発機構　システム計算科学センター　シミュレーション技術開発室　研究員                                      |
+| 2018年8月〜            | 国立研究開発法人理化学研究所　革新知能統合研究センター 数理科学チーム　客員研究員                                                         |
+| 2019年4月〜2020年3月   | 学習院大学物理学科　非常勤講師　（担当講義:　熱学および統計力学２　物３年 （第一学期）　および　熱学および統計力学３　物３年 (第二学期)） |
+| 2019年7月〜            | 現職                                                                                                                                      |
 
 ## 専門
 物性理論、特に固体物理
 
 ## 受賞等
 
-|           |    |
-|--------|:-------------|
-| 2015年3月|  第９回(2015年)日本物理学会若手奨励賞受賞(領域6) [Link](http://www.jps.or.jp/activities/awards/jusyosya/wakate2015.php)|
-| 2018年10月|  日本原子力研究開発機構　理事長表彰　研究開発功績賞|
+|            |                                                                                                                        |
+| ---------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 2015年3月  | 第９回(2015年)日本物理学会若手奨励賞受賞(領域6) [Link](http://www.jps.or.jp/activities/awards/jusyosya/wakate2015.php) |
+| 2018年10月 | 日本原子力研究開発機構　理事長表彰　研究開発功績賞                                                                     |
 
 ## 研究業績
 
@@ -79,11 +79,14 @@ Y. Nagai
 
 ## Preprints
 
-1. __Yuki Nagai__, Akinori Tanaka, Akio Tomiya, *Self-learning Monte-Carlo for non-abelian gauge theory with dynamical fermions*, [hep-lat/arXiv:2010.11900](https://arxiv.org/abs/2010.11900)
-2. Akio Tomiya, __Yuki Nagai__, *Gauge covariant neural network for 4 dimensional non-abelian gauge theory*, [hep-lat/arXiv:2103.11965](https://arxiv.org/abs/2103.11965)
-3. __Yuki Nagai__, Akio Tomiya, *Extensively parallelizable chiral fermion*, [hep-lat/arXiv:2204.01583](https://arxiv.org/abs/2204.01583)
-4. __Yuki Nagai__, Hiroshi Shinaoka, *Sparse modeling approach for quasiclassical theory of superconductivity*, [cond-mat/arXiv:2205.14800](https://arxiv.org/abs/2205.14800)
-5. Markus Wallerberger, Samuel Badr, Shintaro Hoshino, Fumiya Kakizawa, Takashi Koretsune, __Yuki Nagai__, Kosuke Nogaki, Takuya Nomoto, Hitoshi Mori, Junya Otsuki, Soshun Ozaki, Rihito Sakurai, Constanze Vogel, Niklas Witt, Kazuyoshi Yoshimi, Hiroshi Shinaoka, *sparse-ir: optimal compression and sparse sampling of many-body propagators*, [physics/arXiv:2206.11762](https://arxiv.org/abs/2206.11762)
+
+1. Akio Tomiya, __Yuki Nagai__, *Gauge covariant neural network for 4 dimensional non-abelian gauge theory*, [hep-lat/arXiv:2103.11965](https://arxiv.org/abs/2103.11965)
+2. __Yuki Nagai__, Akio Tomiya, *Extensively parallelizable chiral fermion*, [hep-lat/arXiv:2204.01583](https://arxiv.org/abs/2204.01583)
+3. __Yuki Nagai__, Yutaka Iwasaki, Koichi Kitahara, Yoshiki Takagiwa, Kaoru Kimura, Motoyuki Shiga, *Atomic diffusion due to hyperatomic fluctuation for quasicrystals*, [cond-mat/2302.14441](https://arxiv.org/abs/2302.14441)
+4. __Yuki Nagai__, Akio Tomiya, *Self-learning Monte Carlo with equivariant Transformer*, [cond-mat/arXiv:2306.11527](https://browse.arxiv.org/abs/2306.11527)
+5. Yuita Fujisawa, Anjana Krishnadas, Barnaby R. M. Smith, Markel Pardo-Almanza, Hoshu Hiyane, __Yuki Nagai__, Tadashi Machida, Yoshinori Okada, *Imaging Josephson Vortices on Curved Junctions*, [cond-mat/arXiv:2307.11970](https://browse.arxiv.org/abs/2307.11970)
+6. Yuita Fujisawa, Anjana Krishnadas, Chia-Hsiu Hsu, Barnaby R. M. Smith, Markel Pardo-Almanza, Yukiko Obata, Dyon van Dinter, Guoqing Chang, __Yuki Nagai__, Tadashi Machida, Yoshinori Okada, *Visualizing magnetic field-induced rotational electronic symmetry breaking in a spinel oxide superconductor*, [cond-mat/arXiv:2306.06711](https://browse.arxiv.org/abs/2306.06711)
+
 
 ## 学術論文(査読あり)
 ####  原著論文（古い年次順で記載）62本
@@ -143,12 +146,18 @@ Y. Nagai
 54. Etsuko Itou  and __Yuki Nagai__, *Sparse modeling approach to obtaining the shear viscosity from smeared correlation functions*, Journal of High Energy Physics volume 2020, 7 (2020)
 55. Majid Kheirkhah, Zhongbo Yan, __Yuki Nagai__, Frank Marsiglio, *First and second-order topological superconductivity and temperature-driven topological phase transitions in the extended Hubbard model with spin-orbit coupling*, Phys. Rev. Lett. 125, 017001 (2020)
 56. __Yuki Nagai__, Yang Qi, Hiroki Isobe, Vladyslav Kozii, and Liang Fu, *DMFT Reveals the Non-Hermitian Topology and Fermi Arcs in Heavy-Fermion Systems*, Phys. Rev. Lett. 125, 227204-1, 227204-7 (2020)
-57. Hiroshi Shinaoka and __Yuki Nagai__, *Sparse modeling of large-scale quantum impurity models with low symmetries*, Physical Review B 103, 045120-1, 045120-8 (2021)
-58. Hidehiko Kohshiro, and __Yuki Nagai__, *Effective Ruderman–Kittel–Kasuya–Yosida-like Interaction in Diluted Double-exchange Model: Self-learning Monte Carlo Approach*, J. Phys. Soc. Jpn. 90, 034711-1, 034711-8 (2021)
-59. Taiki Matsushita, __Yuki Nagai__, and Satoshi Fujimoto, *Spectrum Collapse of Disordered Dirac Landau Levels as Topological Non-Hermitian Physics*, J. Phys. Soc. Jpn. 90, 074703-1, 074703-9 (2021)
-60. Keita Kobayashi, __Yuki Nagai__, Mitsuhiro Itakura, and Motoyuki Shiga, *Self-learning hybrid Monte Carlo method for isothermal-isobaric ensemble: Application to liquid silica*, The Journal of Chemical Physics 155, 034106-1, 034106-9 (2021)
-61. Howon Kim, __Yuki Nagai__, Levente Rózsa, Dominik Schreyer, and Roland Wiesendanger, *Anisotropic non-split zero-energy vortex bound states in a conventional superconductor*, Applied Physics Reviews 8, 031417-1, 031417-8 (2021)
-62. __Yuki Nagai__, *Intrinsic vortex pinning in superconducting quasicrystals*, to be published in Phys. Rev. B
+57. __Yuki Nagai__, Masahiko Okumura, Keita Kobayashi, and Motoyuki Shiga, *Self-learning hybrid Monte Carlo: A first-principles approach*, Phys. Rev. B 102, 041124(R)-1,041124(R)-6 (2020)
+58. Hiroshi Shinaoka and __Yuki Nagai__, *Sparse modeling of large-scale quantum impurity models with low symmetries*, Physical Review B 103, 045120-1, 045120-8 (2021)
+59. Hidehiko Kohshiro, and __Yuki Nagai__, *Effective Ruderman–Kittel–Kasuya–Yosida-like Interaction in Diluted Double-exchange Model: Self-learning Monte Carlo Approach*, J. Phys. Soc. Jpn. 90, 034711-1, 034711-8 (2021)
+60. Taiki Matsushita, __Yuki Nagai__, and Satoshi Fujimoto, *Spectrum Collapse of Disordered Dirac Landau Levels as Topological Non-Hermitian Physics*, J. Phys. Soc. Jpn. 90, 074703-1, 074703-9 (2021)
+61. Keita Kobayashi, __Yuki Nagai__, Mitsuhiro Itakura, and Motoyuki Shiga, *Self-learning hybrid Monte Carlo method for isothermal-isobaric ensemble: Application to liquid silica*, The Journal of Chemical Physics 155, 034106-1, 034106-9 (2021)
+62. Howon Kim, __Yuki Nagai__, Levente Rózsa, Dominik Schreyer, and Roland Wiesendanger, *Anisotropic non-split zero-energy vortex bound states in a conventional superconductor*, Applied Physics Reviews 8, 031417-1, 031417-8 (2021)
+63. __Yuki Nagai__, *Intrinsic vortex pinning in superconducting quasicrystals*, Phys. Rev B 106, 064506-1-10 (2022)
+64. Markus Wallerberger, Samuel Badr, Shintaro Hoshino, Sebastian Huber, Fumiya Kakizawa, Takashi Koretsune, __Yuki Nagai__, Kosuke Nogaki, Takuya Nomoto, Hitoshi Mori, Junya Otsuki, Soshun Ozaki, Thomas Plaikner, Rihito Sakurai, Constanze Vogel, Niklas Witt, Kazuyoshi Yoshimi, Hiroshi Shinaoka, *sparse-ir: Optimal compression and sparse sampling of many-body propagators*, SoftwareX 21 101266 1-7 (2023)
+65. T. Machida, __Yuki Nagai__, and T. Hanaguri, *Zeeman effects on Yu-Shiba-Rusinov states*, Phys. Rev. Research 4, 033182 1-12 (2022)
+66. __Yuki Nagai__, Akinori Tanaka, and Akio Tomiya, *Self-learning Monte Carlo for non-Abelian gauge theory with dynamical fermions*, Phys. Rev. D 107, 054501 1-16 (2023)
+67. __Yuki Nagai__, and Hiroshi Shinaoka, *Sparse Modeling Approach for Quasiclassical Theory of Superconductivity*, Journal of the Physical Society of Japan 92, 034703 1-8  (2023)
+
 
 
 
