@@ -43,11 +43,12 @@ makedocs(;
     build="build_ja",
     pages=[
         "Home" => "index.md",
-    #    "CV" => "cv.md",
-    #    "これまでやってきたこと" => "koremade.md",
-    #    "物理ノート" => "notes.md",
-        "著書サポート"=>[
+        #    "CV" => "cv.md",
+        #    "これまでやってきたこと" => "koremade.md",
+        #    "物理ノート" => "notes.md",
+        "著書サポート" => [
             "1週間で学べる！　Julia数値計算プログラミング(KS情報科学専門書)" => "books/greenjulia.md",
+            "Juliaではじめる数値計算入門" => "books/GihyoJulia/gihyojulia.md",
         ],
     ],
 )
