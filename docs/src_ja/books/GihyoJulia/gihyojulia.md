@@ -16,6 +16,6 @@
 [Zipファイル](./MyNumerics.zip)
 
 ## 誤植について
-もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/1)に記入していただければチェックして反映したいと思います。
+もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/2)に記入していただければチェックして反映したいと思います。
 
 
