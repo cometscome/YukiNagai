@@ -1,7 +1,7 @@
 # Juliaではじめる数値計算入門
 
 ```@raw html
-<img src=".../images/9784297141288.jpg" height="319.8" width="250.9" alt="Julia本表紙" >
+<img src="../../images/9784297141288.jpg" height="319.8" width="250.9" alt="Julia本表紙" >
 ```
 [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
 
@@ -15,5 +15,7 @@
 2024年5月13日に動作確認したコードです。 バージョン1.10で動作確認しました。
 [Zipファイル](./MyNumerics.zip)
 
+## 誤植について
+もし誤植や間違いと思われる箇所を発見した方は[こちら](https://github.com/cometscome/YukiNagai/issues/1)に記入していただければチェックして反映したいと思います。
 
 
